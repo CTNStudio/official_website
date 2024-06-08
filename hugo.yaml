@@ -1,0 +1,31 @@
+baseURL: https://www.ctnstudios.top
+languageCode: en-us
+title: 星屹工作室
+theme: hugo-PaperMod-7.0
+
+defaultContentLanguage: zh
+defaultContentLanguageInSubdir: true
+enableInlineShortcodes: true 
+enableEmoji: true 
+enableRobotsTXT: true
+
+relativeurls: true
+
+hasCJKLanguage: true
+
+copyright: "©2018~2023 [CTN Studios](https://www.ctnstudios.top)"
+
+languages:
+    zh:
+      params:
+        profileMode:
+          enabled: true
+          title: 群『星』闪耀，始终如『屹』
+          subtitle: 星屹工作室官网正在换新中
+          buttons:
+            - name: 访问旧版官网
+              url: "https://old.ctnstudios.top"
+            - name: 星屹工作室Wiki
+              url: "https://wiki.ctnstudios.top"
+
+
