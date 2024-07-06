@@ -25,7 +25,5 @@ languages:
           buttons:
             - name: 访问旧版官网
               url: "https://old.ctnstudios.top"
-            - name: 星屹工作室Wiki
-              url: "https://wiki.ctnstudios.top"
 
 
