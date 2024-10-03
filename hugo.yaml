@@ -1,29 +1,53 @@
-baseURL: https://www.ctnstudios.top
+baseURL: https://example.org/
 languageCode: en-us
-title: 星屹工作室
-theme: hugo-PaperMod-7.0
+title: My New Hugo Site
+theme: hextra-0.8.4
 
-defaultContentLanguage: zh
-defaultContentLanguageInSubdir: true
-enableInlineShortcodes: true 
-enableEmoji: true 
-enableRobotsTXT: true
-
-relativeurls: true
-
+outputs:
+  home: [HTML]
+  page: [HTML]
+  section: [HTML, RSS]
 hasCJKLanguage: true
-
-copyright: "©2018~2023 [CTN Studios](https://www.ctnstudios.top)"
-
+defaultContentLanguage: zh-cn
 languages:
-    zh:
-      params:
-        profileMode:
-          enabled: true
-          title: 群『星』闪耀，始终如『屹』
-          subtitle: 星屹工作室官网正在换新中
-          buttons:
-            - name: 访问旧版官网
-              url: "https://old.ctnstudios.top"
+  zh-cn:
+    languageName: 简体中文
+    languageCode: zh-CN
+    weight: 1
+    title: 星屹工作室
+    menu:
+      main:
+        - identifier: works
+          name: 作品展示
+          pageRef: /works
+          weight: 1
+        - identifier: members
+          name: 团队成员
+          pageRef: /members
+          weight: 2
+        - identifier: wiki
+          name: Wiki
+          pageRef: /wiki
+          weight: 3
+        - identifier: about
+          name: 了解更多
+          pageRef: /about
+          weight: 4
+        - name: Search
+          weight: 5
+          params:
+            type: search
+        - name: GitHub
+          weight: 6
+          url: "https://github.com/imfing/hextra"
+          params:
+            icon: github
 
+params:
+  search:
+    enable: true
+    type: flexsearch
 
+    flexsearch:
+      index: content
+      tokenize: forward
