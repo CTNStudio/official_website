@@ -39,7 +39,7 @@ languages:
             type: search
         - name: GitHub
           weight: 6
-          url: "https://github.com/imfing/hextra"
+          url: "https://github.com/CTNStudio"
           params:
             icon: github
 
