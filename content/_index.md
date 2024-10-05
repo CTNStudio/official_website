@@ -26,12 +26,12 @@ layout: hextra-home
 
 {{< hextra/feature-grid >}}
   {{< hextra/feature-card
-    title="关于星屹"
+    title="关于工作室"
     subtitle="星屹工作室是一个由室长大队长_Captain带领的、创建于2018年1月的Minecraft工作室，致力于创作更多的优秀Minecraft作品。目前，星屹工作室共有?名成员，并与多个其他Minecraft工作室保持良好合作关系"
   >}}
   {{< hextra/feature-card
     title="作品介绍——隐藏之年²"
-    subtitle="隐藏之年²是一款仍在不断完善中的 Minecraft 冒险模组。本模组将从内至外地改变世界，初入你可能并未发现与原版游戏的不同，但随着探索的深入，你将在奇妙的旅程中逐渐揭开潜藏在世界深处的秘密……"
+    subtitle="隐藏之年²是一款仍在不断完善中的冒险模组，其将从内至外地改变世界，初入你可能并未发现与原版游戏的不同，但随着探索的深入，你将在奇妙的旅程中逐渐揭开潜藏在世界深处的秘密……"
   >}}
   {{< hextra/feature-card
     title="作品介绍——星落之晶纹理包"
