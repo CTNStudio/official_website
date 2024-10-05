@@ -9,7 +9,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
-  群『星』闪耀&nbsp;<br class="sm:hx-block hx-hidden" /> 始终如『屹』
+  群「星」闪耀&nbsp;<br class="sm:hx-block hx-hidden" /> 始终如「屹」
 {{< /hextra/hero-headline >}}
 </div>
 
@@ -20,7 +20,7 @@ layout: hextra-home
 </div>
 
 <div class="hx-mt-6 hx-mb-12">
-{{< hextra/hero-button text="了解作品" link="works" >}}{{< hextra/hero-button text="Wiki" link="wiki" >}}
+{{< hextra/hero-button text="作品" link="works" >}}{{< hextra/hero-button text="Wiki" link="wiki" >}}
 </div>
 {{< /hextra/hero-container>}}
 
