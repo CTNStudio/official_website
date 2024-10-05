@@ -3,6 +3,7 @@ title: 石头工艺
 weight: 2
 type: docs
 prev: /hidden-years
+next: /mix-vanilla
 ---
 石头工艺是一款以石头为主题的实用模组，让你背包里的圆石不再浪费！
 
