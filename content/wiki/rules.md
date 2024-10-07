@@ -4,6 +4,9 @@ weight: 1
 type: docs
 prev: /wiki
 ---
+{{< callout emoji="🔄" >}}
+  该条目已经过时或极不完善，且正等待更新
+{{< /callout >}}
 
 在您对本Wiki的任何内容进行编辑之前，您需要保证遵循以下规则。
 

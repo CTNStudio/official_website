@@ -4,8 +4,8 @@ weight: 5
 type: docs
 prev: /wiki/works/maps
 ---
-{{< callout type="error" >}}
-  目前地图出现了严重漏洞，暂时无法在最新版运行
+{{< callout emoji="🔄" >}}
+  该条目已经过时或极不完善，且正等待更新
 {{< /callout >}}
 
 20+空岛の奇幻生存是一款基岩版地图作品，曾获苦力怕论坛2022原创激励计划12月一等奖。

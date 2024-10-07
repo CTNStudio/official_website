@@ -2,6 +2,7 @@
 title: Mod&附加包
 type: docs
 next: /hidden-years
+prev: /wiki/works
 ---
 这里收录了星屹工作室出品的Mod/附加包
 {{< cards >}}

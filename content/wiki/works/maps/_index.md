@@ -1,7 +1,8 @@
 ---
 title: 地图
 type: docs
-next: /hidden-years
+next: /island-world
+prev: /wiki/works
 ---
 这里收录了星屹工作室出品的地图
 {{< cards >}}
