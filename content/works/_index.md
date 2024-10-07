@@ -18,5 +18,5 @@ next: /hidden-years
 
 ## 地图
 {{< cards >}}
-  {{< card link="sky-island" icon="warn" title="20+空岛の奇幻生存" subtitle="一款基岩版地图作品，目前因严重漏洞，暂时无法在最新版运行" >}}  
+  {{< card link="sky-island" icon="warning" title="20+空岛の奇幻生存" subtitle="一款基岩版地图作品，目前因严重漏洞，暂时无法在最新版运行" >}}  
 {{< /cards >}}
