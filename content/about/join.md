@@ -3,10 +3,11 @@ title: 加入我们
 type: docs
 prev: /about
 next: /agreement
+weight: 1
 ---
 欢迎加入星屹工作室！
 
-{{< card link="agreement" title="成员协议" subtitle="请仔细阅读该协议，申请加入星屹工作室代表你已同意星屹工作室成员协议" >}}
+请仔细阅读[星屹工作室成员协议](./agreement)，申请加入星屹工作室代表你已同意该协议。
 
 ## 招收范围
 - 纹理作者；

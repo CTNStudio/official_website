@@ -12,8 +12,6 @@ next: /join
 
 ## 了解更多
 
-在参与编辑之前，您可以从以下几个步骤中快速开始：
-
 {{< cards >}}
   {{< card link="join" title="加入我们" subtitle="加入星屹工作室" >}}
   {{< card link="agreement" title="成员协议" subtitle="星屹工作室成员协议" >}}
