@@ -20,7 +20,7 @@ layout: hextra-home
 </div>
 
 <div class="hx-mt-6 hx-mb-12">
-{{< hextra/hero-button text="作品" link="works" >}}{{< hextra/hero-button text="Wiki" link="wiki" >}}
+{{< hextra/hero-button text="Wiki" link="wiki" >}}{{< hextra/hero-button text="作品展示" link="wiki/works" >}}
 </div>
 {{< /hextra/hero-container>}}
 

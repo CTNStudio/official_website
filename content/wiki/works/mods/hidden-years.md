@@ -2,7 +2,7 @@
 title: 隐藏之年²
 weight: 1
 type: docs
-prev: /works
+prev: /works/mods
 next: /stone-craft
 ---
 [![隐藏之年](https://s11.ax1x.com/2024/02/16/pFGrHiQ.png)](https://imgse.com/i/pFGrHiQ)

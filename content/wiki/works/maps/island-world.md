@@ -1,8 +1,8 @@
 ---
-title: 20+空岛の奇幻生存
+title: 岛屿世界
 weight: 5
 type: docs
-prev: /starfall-crystal
+prev: /wiki/works/maps
 ---
 {{< callout type="error" >}}
   目前地图出现了严重漏洞，暂时无法在最新版运行

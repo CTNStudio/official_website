@@ -1,0 +1,78 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>星屹工作室 – 纹理包&amp;资源包</title>
+    <link>http://localhost:1313/wiki/works/tex/</link>
+    <description>Recent content in 纹理包&amp;资源包 on 星屹工作室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    
+	  <atom:link href="http://localhost:1313/wiki/works/tex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>MixVanilla 复合纹理包</title>
+      <link>http://localhost:1313/wiki/works/tex/mix-vanilla/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/wiki/works/tex/mix-vanilla/</guid>
+      <description>
+        
+        
+        &lt;p&gt;复合纹理包是一款资源包，使用新版颜色给旧版形状的物品填色。&lt;/p&gt;
+&lt;h2&gt;内容亮点&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;内容亮点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%86%85%e5%ae%b9%e4%ba%ae%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;在旧版形状的基础上融入了新版的上色风格，制作出一个截然不同的纹理包！&lt;/p&gt;
+&lt;h2&gt;效果展示&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;效果展示&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%88%e6%9e%9c%e5%b1%95%e7%a4%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://zj-data.klpbbs.com/forum/202209/18/125752uw70tt5t7sybj2qq.png&#34; alt=&#34;展示&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zj-data.klpbbs.com/forum/202209/18/125902z0s0xqvfzrsxzqll.png&#34; alt=&#34;展示&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zj-data.klpbbs.com/forum/202209/18/125943tbhf8xh8k5bsigm5.png&#34; alt=&#34;展示&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zj-data.klpbbs.com/forum/202209/18/125932b59pnndvfezugd5d.png&#34; alt=&#34;展示&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zj-data.klpbbs.com/forum/202209/18/125924z82cdx6fcxci6i6x.png&#34; alt=&#34;展示&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zj-data.klpbbs.com/forum/202209/18/125920qhuvgd2mvhmqxszv.png&#34; alt=&#34;展示&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>星落之晶纹理包</title>
+      <link>http://localhost:1313/wiki/works/tex/starfall-crystal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/wiki/works/tex/starfall-crystal/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;内容亮点&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;内容亮点&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%86%85%e5%ae%b9%e4%ba%ae%e7%82%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;这是一个具有晶体风格的纹理包，晶体风格独特鲜明，并且有细腻的风格。&lt;/p&gt;
+&lt;p&gt;你可以在生存中平常使用，也可以在PVP中使用！&lt;/p&gt;
+&lt;h2&gt;效果展示&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;效果展示&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e6%95%88%e6%9e%9c%e5%b1%95%e7%a4%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;版权声明&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;版权声明&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e7%89%88%e6%9d%83%e5%a3%b0%e6%98%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;您可以：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以学习为目的对纹理包进行拆包；&lt;/li&gt;
+&lt;li&gt;以个人游玩体验为目的对纹理包进行修改。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;您不可以：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;将修改过的纹理包发布到网络；&lt;/li&gt;
+&lt;li&gt;私自将本纹理包中的纹理加入到其他纹理包并发布；&lt;/li&gt;
+&lt;li&gt;声称您拥有本纹理包，或以它营利；&lt;/li&gt;
+&lt;li&gt;未经许可将本纹理包转载至其他网站或软件；&lt;/li&gt;
+&lt;li&gt;将本纹理包加入自制的二创 Minecraft 客户端。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;开发人员&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;开发人员&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%e5%bc%80%e5%8f%91%e4%ba%ba%e5%91%98&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;大队长_Captain：项目发起者、纹理绘制&lt;/li&gt;
+&lt;li&gt;鬼才亚克力：纹理绘制&lt;/li&gt;
+&lt;li&gt;KuLou_D：纹理绘制&lt;/li&gt;
+&lt;li&gt;大果冻龙：纹理绘制&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

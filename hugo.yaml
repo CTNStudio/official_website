@@ -19,11 +19,11 @@ languages:
       main:
         - identifier: works
           name: 优秀作品
-          pageRef: /works
+          pageRef: /wiki/works
           weight: 1
         - identifier: members
           name: 团队成员
-          pageRef: /members
+          pageRef: /wiki/members
           weight: 2
         - identifier: wiki
           name: Wiki
