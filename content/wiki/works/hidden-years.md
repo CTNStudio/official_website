@@ -1,6 +1,5 @@
 ---
 title: 隐藏之年²
-weight: 1
 type: docs
 prev: /works
 next: /stone-craft

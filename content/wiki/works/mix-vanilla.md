@@ -1,6 +1,5 @@
 ---
 title: MixVanilla 复合纹理包
-weight: 3
 type: docs
 prev: /stone-craft
 next: /starfall-crystal

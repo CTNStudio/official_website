@@ -1,6 +1,5 @@
 ---
 title: 编辑规范
-weight: 1
 type: docs
 prev: /wiki
 ---

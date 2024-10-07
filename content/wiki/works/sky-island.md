@@ -1,6 +1,5 @@
 ---
 title: 20+空岛の奇幻生存
-weight: 5
 type: docs
 prev: /starfall-crystal
 ---

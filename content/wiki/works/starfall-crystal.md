@@ -1,6 +1,5 @@
 ---
 title: 星落之晶纹理包
-weight: 4
 type: docs
 prev: /mix-vanilla
 next: /sky-island

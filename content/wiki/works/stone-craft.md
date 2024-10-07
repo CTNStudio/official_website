@@ -1,6 +1,5 @@
 ---
 title: 石头工艺
-weight: 2
 type: docs
 prev: /hidden-years
 next: /mix-vanilla
