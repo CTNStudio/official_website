@@ -3,6 +3,7 @@ title: MixVanilla 复合纹理包
 weight: 3
 type: docs
 prev: /stone-craft
+next: /starfall-crystal
 ---
 复合纹理包是一款资源包，使用新版颜色给旧版形状的物品填色。
 
