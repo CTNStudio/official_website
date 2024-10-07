@@ -6,7 +6,7 @@ weight: 2
 ---
 *最后修订：2024年10月7日*
 
-Copyright (C) 2018~2024 星屹工作室 https://ctnstudios.top
+Copyright © 2018~2024 星屹工作室 https://ctnstudios.top
 
 在您加入本工作室前，请务必仔细阅读本协议，当您申请加入星屹工作室时，则默认您已阅读并同意本协议。
 
