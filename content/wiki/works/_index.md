@@ -1,7 +1,7 @@
 ---
 title: 作品
+weight: 2
 type: docs
-next: /hidden-years
 ---
 
 ## 附加包

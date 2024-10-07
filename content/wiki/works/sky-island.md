@@ -1,7 +1,6 @@
 ---
 title: 20+空岛の奇幻生存
 type: docs
-prev: /starfall-crystal
 ---
 {{< callout type="error" >}}
   目前地图出现了严重漏洞，暂时无法在最新版运行

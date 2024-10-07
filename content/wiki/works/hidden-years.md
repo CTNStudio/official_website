@@ -1,8 +1,6 @@
 ---
 title: 隐藏之年²
 type: docs
-prev: /works
-next: /stone-craft
 ---
 [![隐藏之年](https://s11.ax1x.com/2024/02/16/pFGrHiQ.png)](https://imgse.com/i/pFGrHiQ)
 
