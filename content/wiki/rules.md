@@ -3,6 +3,7 @@ title: 编辑规范
 weight: 1
 type: docs
 prev: /wiki
+next: /wiki/works
 ---
 
 在您对本Wiki的任何内容进行编辑之前，您需要保证遵循以下规则。

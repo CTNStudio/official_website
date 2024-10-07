@@ -1,7 +1,8 @@
 ---
 title: 作品
 weight: 2
-type: docs
+prev: /wiki/rules
+next: /wiki/works/hidden-years
 ---
 
 ## 附加包
