@@ -15,6 +15,11 @@ next: /rules
 
 __目前，本Wiki仍在测试中且不完善，您可以先行前往旧版[Fandom Wiki](https://ctnstudio.fandom.com/zh/wiki/CTN_Studio_Wiki)或[灰机Wiki](https://ctnstudio.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)查询与星屹工作室有关的信息。__
 
+## 内容一览
+{{< cards >}}
+  {{< card link="works" title="作品" subtitle="了解作品" >}}
+{{< /cards >}}
+
 ## 开始编辑吧！
 
 在参与编辑之前，您可以从以下几个步骤中快速开始：

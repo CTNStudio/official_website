@@ -1,5 +1,5 @@
 ---
-title: 优秀作品
+title: 作品
 type: docs
 next: /hidden-years
 ---

@@ -18,7 +18,7 @@ languages:
     menu:
       main:
         - identifier: works
-          name: 作品展示
+          name: 优秀作品
           pageRef: /works
           weight: 1
         - identifier: members
