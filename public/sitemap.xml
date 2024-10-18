@@ -4,9 +4,13 @@
   <url>
     <loc>http://localhost:1313/wiki/rules/</loc>
   </url><url>
+    <loc>http://localhost:1313/wiki/members/captain/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/join/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki/works/mods/hidden-years/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki/members/sn/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki/works/mods/stone-craft/</loc>
   </url><url>
@@ -14,7 +18,13 @@
   </url><url>
     <loc>http://localhost:1313/wiki/works/tex/mix-vanilla/</loc>
   </url><url>
+    <loc>http://localhost:1313/wiki/members/ykl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki/members/jin/</loc>
+  </url><url>
     <loc>http://localhost:1313/wiki/works/tex/starfall-crystal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki/members/raw-diamond/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki/works/maps/island-world/</loc>
   </url><url>
@@ -27,6 +37,8 @@
     <loc>http://localhost:1313/wiki/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki/works/maps/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki/members/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>

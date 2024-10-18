@@ -3,6 +3,7 @@ title: 编辑规范
 weight: 1
 type: docs
 prev: /wiki
+next: /wiki/members
 ---
 {{< callout emoji="🔄" >}}
   该条目已经过时或极不完善，且正等待更新

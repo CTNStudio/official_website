@@ -1,6 +1,7 @@
 ---
 title: 优秀作品
 type: docs
+prev: /wiki/members
 next: /mods
 ---
 {{< callout emoji="🔄" >}}
