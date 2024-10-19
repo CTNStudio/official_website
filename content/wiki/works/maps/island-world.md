@@ -1,8 +1,9 @@
 ---
-title: 岛屿世界
-weight: 5
+title: 20+空岛の奇幻生存
+weight: 6
 type: docs
 prev: /wiki/works/maps
+next: /sn-island-world
 ---
 {{< callout emoji="🔄" >}}
   该条目已经过时或极不完善，且正等待更新

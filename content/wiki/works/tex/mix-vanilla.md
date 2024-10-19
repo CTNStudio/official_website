@@ -1,6 +1,6 @@
 ---
 title: MixVanilla 复合纹理包
-weight: 3
+weight: 4
 type: docs
 prev: /wiki/works/tex
 next: /starfall-crystal

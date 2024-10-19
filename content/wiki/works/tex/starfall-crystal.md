@@ -1,6 +1,6 @@
 ---
 title: 星落之晶纹理包
-weight: 4
+weight: 5
 type: docs
 prev: /mix-vanilla
 ---
