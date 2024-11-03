@@ -3,9 +3,6 @@ title: 星屹工作室
 layout: hextra-home
 ---
 {{< hextra/hero-container>}}
-{{< hextra/hero-badge>}}
-  <span>Beta</span>
-{{< /hextra/hero-badge >}}
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
