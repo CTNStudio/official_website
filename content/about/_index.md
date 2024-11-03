@@ -15,4 +15,5 @@ next: /join
 {{< cards >}}
   {{< card link="join" title="加入我们" subtitle="加入星屹工作室" >}}
   {{< card link="agreement" title="成员协议" subtitle="星屹工作室成员协议" >}}
+  {{< card link="collaborators" title="合作" subtitle="与星屹工作室建立合作" >}}
 {{< /cards >}}

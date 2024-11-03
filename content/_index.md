@@ -4,6 +4,12 @@ layout: hextra-home
 ---
 {{< hextra/hero-container>}}
 
+{{< hextra/hero-badge >}}
+  <div class="hx-w-2 hx-h-2 hx-rounded-full hx-bg-primary-400"></div>
+  <span>我们致力于创作更多的优秀Minecraft作品</span>
+  {{< icon name="arrow-circle-right" attributes="height=14" >}}
+{{< /hextra/hero-badge >}}
+
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
   群「星」闪耀&nbsp;<br class="sm:hx-block hx-hidden" /> 始终如「屹」
@@ -12,7 +18,7 @@ layout: hextra-home
 
 <div class="hx-mt-6 hx-mb-12">
 {{< hextra/hero-subtitle >}}
-  欢迎来到新版星屹工作室官方网站
+  欢迎来到星屹工作室官方网站
 {{< /hextra/hero-subtitle >}}
 </div>
 
