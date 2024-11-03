@@ -5,6 +5,8 @@ prev: /copyright
 next: /wiki/members
 weight: 3
 ---
+这里收录了星屹工作室制作的其他作品。
+
 ## 20+空岛の奇幻生存
 *主条目：[20+空岛の奇幻生存](/wiki/works/maps/island-world)*
 
