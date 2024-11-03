@@ -12,27 +12,31 @@
   </url><url>
     <loc>http://localhost:1313/wiki/members/sn/</loc>
   </url><url>
+    <loc>http://localhost:1313/wiki/other-works/</loc>
+  </url><url>
     <loc>http://localhost:1313/wiki/works/mods/stone-craft/</loc>
   </url><url>
     <loc>http://localhost:1313/about/agreement/</loc>
   </url><url>
-    <loc>http://localhost:1313/wiki/works/tex/mix-vanilla/</loc>
-  </url><url>
     <loc>http://localhost:1313/wiki/members/ykl/</loc>
   </url><url>
+    <loc>http://localhost:1313/about/collaborators/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki/works/mods/stone-adventure/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki/works/tex/mix-vanilla/</loc>
+  </url><url>
     <loc>http://localhost:1313/wiki/members/jin/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki/members/raw-diamond/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki/works/tex/starfall-crystal/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki/works/maps/island-world/</loc>
   </url><url>
-    <loc>http://localhost:1313/wiki/members/raw-diamond/</loc>
-  </url><url>
     <loc>http://localhost:1313/wiki/works/maps/sn-island-world/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/wiki/works/mods/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
@@ -43,6 +47,8 @@
     <loc>http://localhost:1313/wiki/members/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/wiki/works/mods/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki/works/tex/</loc>
   </url><url>

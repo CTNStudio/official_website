@@ -2,6 +2,7 @@
 title: 星屹工作室成员协议
 type: docs
 prev: /join
+next: collaborators
 weight: 2
 ---
 *最后修订：2024年10月7日*

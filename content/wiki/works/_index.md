@@ -1,12 +1,9 @@
 ---
 title: 优秀作品
 type: docs
-prev: /wiki/members
+prev: /wiki/other-works
 next: /mods
 ---
-{{< callout emoji="🔄" >}}
-  该条目已经过时或极不完善，且正等待更新
-{{< /callout >}}
 ## 附加包
 {{< cards >}}
   {{< card link="hidden-years" title="隐藏之年²" subtitle="一款开发中的冒险模组" >}}
