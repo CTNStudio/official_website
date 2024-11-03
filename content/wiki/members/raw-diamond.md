@@ -4,7 +4,7 @@ type: docs
 weight: 5
 prev: /jin
 ---
-RawDiamondMC是工作室管理员，模组作者，会写html、javascript、typescript、java。
+RawDiamondMC，星屹工作室管理员，模组作者，会写html、javascript、typescript、java。
 
 ## 活跃项目
 - Kessoku Lib

@@ -5,4 +5,4 @@ type: docs
 prev: /members
 next: /sn
 ---
-大队长_Captain是星屹工作室室长，纹理包作者。
+大队长_Captain是星屹工作室室长，纹理绘制者。
