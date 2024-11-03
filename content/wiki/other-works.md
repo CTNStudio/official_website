@@ -1,9 +1,9 @@
 ---
 title: 其他作品
 type: docs
-prev: /rules
+prev: /copyright
 next: /wiki/members
-weight: 2
+weight: 3
 ---
 ## 20+空岛の奇幻生存
 *主条目：[20+空岛の奇幻生存](/wiki/works/maps/island-world)*
