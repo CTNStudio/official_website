@@ -1,5 +1,5 @@
 baseURL: https://beta.ctnstudios.top/
-languageCode: en-us
+languageCode: zh-cn
 title: 星屹工作室
 theme: hextra-0.8.4
 
@@ -44,6 +44,12 @@ languages:
             icon: github
 
 params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: favicon.ico
+
   search:
     enable: true
     type: flexsearch

@@ -50,6 +50,8 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/more/</loc>
+  </url><url>
     <loc>http://localhost:1313/wiki/works/mods/</loc>
   </url><url>
     <loc>http://localhost:1313/wiki/works/tex/</loc>
