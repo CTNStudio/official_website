@@ -1,7 +1,7 @@
 ---
 title: 工作室成员
 type: docs
-prev: /wiki/rules
+prev: /wiki/other-works
 next: /captain
 ---
 

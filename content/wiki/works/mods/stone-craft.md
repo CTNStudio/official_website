@@ -27,3 +27,11 @@ next: /stone-adventure
 - 初雪·冰：前Java移植
 - Majer Tobey：前美术
 - Ckpe666：前美术
+
+## 下载方式
+
+本Addon在以下渠道提供下载：
++ [MC百科](https://www.mcmod.cn/class/9862.html)
++ [苦力怕论坛](https://klpbbs.com/thread-28013-1-1.html)
++ [MineBBS](https://www.minebbs.com/resources/stone-craft.5750/)
++ [QQ交流圈](https://qm.qq.com/cgi-bin/qm/qr?k=ehJSejYS4lqVbwwA0bfM1qjDMR8clyup&jump_from=webapi&authKey=02DGeTlJ7CEzt9+uK1YZTOEYERyroLi4ntYTB6qLpUoawYYtTiz8yVDwLD/aTxAO)

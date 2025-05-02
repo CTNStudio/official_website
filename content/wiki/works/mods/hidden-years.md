@@ -65,3 +65,12 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
+
+## 下载方式
+
+本Addon在以下渠道提供下载：
++ [官网](https://hy2.ctnstudios.top/docs/tutorials/start/#%E4%B8%8B%E8%BD%BD)
++ [MC百科](https://www.mcmod.cn/class/12453.html)
++ [苦力怕论坛](https://klpbbs.com/thread-85797-1-1.html)
++ [MineBBS](https://www.minebbs.com/resources/6182/)
++ [QQ交流圈](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=D6jzK9Hyyuaibbeuo0m02WV9lNrcQyMi&authKey=rRkeZxWDtFKAmM5lUfcJUZu6vYiNwkOFsTbXAhvdKfLmHa8repeNUvaV573Fzb2c&noverify=0&group_code=499251252)
