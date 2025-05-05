@@ -31,6 +31,7 @@ next: /stone-adventure
 ## 下载方式
 
 本Addon在以下渠道提供下载：
++ [官网（实验性）](https://download.ctnstudios.top/files/StoneCraft1.1.3.mcaddon)
 + [MC百科](https://www.mcmod.cn/class/9862.html)
 + [苦力怕论坛](https://klpbbs.com/thread-28013-1-1.html)
 + [MineBBS](https://www.minebbs.com/resources/stone-craft.5750/)

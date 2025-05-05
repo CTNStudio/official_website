@@ -19,4 +19,5 @@ next: /tree-miner
 ## 下载方式
 
 本Addon在以下渠道提供下载：
++ [官网（实验性）](https://download.ctnstudios.top/files/磐石之旅0.14.0.mcaddon)
 + [苦力怕论坛](https://klpbbs.com/thread-28013-1-1.html)
