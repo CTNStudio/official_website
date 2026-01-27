@@ -44,6 +44,7 @@ languages:
             icon: github
 
 params:
+  externalLinkDecoration: true
   navbar:
     displayTitle: true
     displayLogo: true
