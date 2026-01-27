@@ -1,8 +1,8 @@
 ---
 title: 工作室成员
 type: docs
-prev: /wiki/other-works
-next: /captain
+prev: /wiki/history
+next: /wiki/works
 ---
 
 ## 管理层

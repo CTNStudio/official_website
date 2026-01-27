@@ -2,7 +2,7 @@
 title: 优秀作品
 type: docs
 prev: /wiki/members
-next: /maps
+next: /wiki/works/maps
 ---
 ## 附加包
 {{< cards >}}

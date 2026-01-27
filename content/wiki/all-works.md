@@ -1,11 +1,11 @@
 ---
-title: 其他作品
+title: 作品合集
 type: docs
-prev: /copyright
-next: /wiki/members
+prev: /wiki/copyright
+next: /wiki/history
 weight: 3
 ---
-这里收录了星屹工作室制作的其他作品。
+这里收录了星屹工作室制作的所有作品。
 
 ## 20+空岛の奇幻生存
 *主条目：[20+空岛の奇幻生存](/wiki/works/maps/island-world)*

@@ -2,8 +2,8 @@
 title: 磐石之旅
 weight: 3
 type: docs
-prev: /stone-craft
-next: /tree-miner
+prev: /wiki/works/mods/stone-craft
+next: /wiki/works/mods/tree-miner
 ---
 磐石之旅是石头工艺的衍生冒险模组，让你背包里的圆石不再浪费！
 

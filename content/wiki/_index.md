@@ -2,7 +2,7 @@
 linkTitle: "Wiki"
 title: 扬帆再起航
 type: docs
-next: /rules
+next: /wiki/rules
 ---
 
 👋 嗨！欢迎回到星屹工作室Wiki

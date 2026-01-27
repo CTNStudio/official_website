@@ -2,7 +2,7 @@
 title: 星落之晶纹理包
 weight: 5
 type: docs
-prev: /mix-vanilla
+prev: /wiki/works/mods/mix-vanilla
 ---
 ## 内容亮点
 这是一个具有晶体风格的纹理包，晶体风格独特鲜明，并且有细腻的风格。

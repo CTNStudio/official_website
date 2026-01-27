@@ -1,7 +1,7 @@
 ---
 title: 纹理包&资源包
 type: docs
-next: /mix-vanilla
+next: /wiki/works/mods/mix-vanilla
 prev: /wiki/works
 ---
 这里收录了星屹工作室出品的纹理包/资源包

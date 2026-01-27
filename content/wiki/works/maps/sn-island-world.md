@@ -2,7 +2,7 @@
 title: 岛屿世界
 weight: 7
 type: docs
-prev: /island-world
+prev: /wiki/works/maps
 ---
 {{< callout type="info" >}}
   该地图仅支持基岩版1.19.60.26及以上版本加载

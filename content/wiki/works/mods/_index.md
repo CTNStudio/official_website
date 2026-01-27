@@ -1,7 +1,7 @@
 ---
 title: 模组
 type: docs
-next: /hidden-years
+next: /wiki/works/mods/hidden-years
 prev: /wiki/works
 ---
 这里收录了星屹工作室出品的模组。
