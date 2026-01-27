@@ -4,19 +4,19 @@ layout: hextra-home
 ---
 {{< hextra/hero-container>}}
 
-<div class="hx-mt-6 hx-mb-6">
+<div class="hx:mt-6 hx:mb-6">
 {{< hextra/hero-headline >}}
-  群「星」闪耀&nbsp;<br class="sm:hx-block hx-hidden" /> 始终如「屹」
+  群「星」闪耀&nbsp;<br class="sm:hx-block hx:hidden" /> 始终如「屹」
 {{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx-mt-6 hx-mb-12">
+<div class="hx:mt-6 hx:mb-12">
 {{< hextra/hero-subtitle >}}
   欢迎来到星屹工作室官方网站
 {{< /hextra/hero-subtitle >}}
 </div>
 
-<div class="hx-mt-6 hx-mb-12">
+<div class="hx:mt-6 hx:mb-12">
 {{< hextra/hero-button text="作品展示→" link="wiki/works" >}}
 </div>
 {{< /hextra/hero-container>}}
