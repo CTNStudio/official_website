@@ -3,6 +3,7 @@ title: 矿树节
 weight: 4
 type: docs
 prev: /wiki/works/mods/stone-adventure
+next: /wiki/works/mods/mountain-poem
 ---
 矿树节是一款由星屹工作室开发、以植树节为主题的实用Mod。
 
