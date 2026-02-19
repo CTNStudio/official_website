@@ -57,3 +57,7 @@ params:
     flexsearch:
       index: content
       tokenize: forward
+    
+  banner:
+    key: "announcement"
+    message: 🔔由于近期蓝奏云在下载链接中插入流氓软件广告推广，请您下载文件时仔细甄别！

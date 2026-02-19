@@ -19,7 +19,5 @@ prev: /wiki/works/mods/stone-adventure
 ## 下载方式
 
 本Mod在以下渠道提供下载：
-+ [官网（本体）（实验性）](https://download.ctnstudios.top/files/tree_miner-1.0.3.jar)
-+ [官网（前置）（实验性）](https://download.ctnstudios.top/files/XiaoJin%20api%201.0.0.jar)
 + [MC百科](https://www.mcmod.cn/class/19044.html)
 + [Modrinth](https://modrinth.com/mod/tree-miner)

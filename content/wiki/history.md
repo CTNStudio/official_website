@@ -1,9 +1,9 @@
 ---
 title: 工作室史
 type: docs
-prev: /wiki/all-works
+prev: /wiki/wip-works
 next: /wiki/members
-weight: 4
+weight: 6
 ---
 ## 2018
 ### 1月

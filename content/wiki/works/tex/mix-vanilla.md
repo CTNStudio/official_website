@@ -1,9 +1,8 @@
 ---
-title: MixVanilla 复合纹理包
+title: 经典混合纹理包
 weight: 4
 type: docs
 prev: /wiki/works/tex
-next: /wiki/works/mods/starfall-crystal
 ---
 复合纹理包是一款资源包，使用新版颜色给旧版形状的物品填色。
 
@@ -24,21 +23,14 @@ next: /wiki/works/mods/starfall-crystal
 
 ![展示](https://zj-data.klpbbs.com/forum/202209/18/125920qhuvgd2mvhmqxszv.png)
 
-## 起源
-一切的起因是在2022年8月份，大队长画了两个旧版形状的苹果，并在31日发到云飞羊羊圈，随后并整合制作了一个「更好的原版」纹理包；
-
-同月，亚克力参与绘制了绿宝石块的贴图，大队长借此提议合作，并陆续制作了更多的贴图。
-
-之后不久在苦力怕论坛发布，当时还有人直接一口否定了大队长付出的努力，但他仍后续制作了新版本，并陆陆续续发布了各种各样的宣传片。
-
-## 开发过程
-- 亚克力视频发布后，视频迅速破万，骑士提议制作JE1.8.9版本
-- 11月底，大队长开始逐步移植，先使用软件移植再人工优化
-- 12月2日，大队长发布了1.8.9宣传片 *（标题所写的是PVP特供版，但是里面完全没有PVP元素）*
-- 12日，发布了PVP子包，基岩版的PVP模式内置在设置，可在全局资源启动
-- 随后逐步完善，并发布新版本……
-
-## 你知道吗
-- 复合与怀旧复合纹理包的PVP模式中，短剑名字被设定为迷你剑，因为「迷你」两字可能会让人联想到「迷你世界」所以更改；
-- 这个包还有一个兄弟包，叫做怀旧复合；
-- 该纹理在苦力怕上传后，一人否定团队的努力，说：”这不是你画的吧，填转载“，让大队长气了段时间，后在2023年3月23日道歉了，并在苦力怕论坛的作品帖子打赏铁粒
+## 相关链接
+* [蓝奏云（基岩版）](https://ctncaptain.lanzoui.com/b02vhpa0b)，提取码：MVBE
+* [蓝奏云（Java版）](https://ctncaptain.lanzoui.com/b02vhpa3e)，提取码：MVJE
+* [红石中继站](https://www.mczwlt.net/resource/unb57sbb)
+* [苦力怕论坛（基岩版）](https://klpbbs.com/thread-92733-1-1.html)
+* [苦力怕论坛（Java版）](https://klpbbs.com/thread-95319-1-1.html)
+* [Modrinth](https://modrinth.com/resourcepack/mixvanilla)
+* [MCPEDL](https://mcpedl.com/mixvanilla-texture-pack/)
+* [Bilibili宣传视频](https://www.bilibili.com/video/BV1WfK5eHETy/?share_source=copy_web&vd_source=d900f7f54be329fce7901f9b16cbdc18)
+* [Youtube宣传视频](https://youtu.be/lQdu0swDw-M)
+* [MineBBS（过时）](https://www.minebbs.com/resources/mixvanilla.5581/)
