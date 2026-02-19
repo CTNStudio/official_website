@@ -1,8 +1,8 @@
 ---
 title: 维护中作品
 type: docs
-prev: /wiki/members
-next: /wiki/works/maps
+prev: /wiki/wip-works
+next: /wiki/history
 weight: 5
 ---
 ## 模组&附加包

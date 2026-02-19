@@ -1,7 +1,7 @@
 ---
 title: 工作室史
 type: docs
-prev: /wiki/wip-works
+prev: /wiki/works
 next: /wiki/members
 weight: 6
 ---
