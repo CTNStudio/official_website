@@ -2,7 +2,6 @@
 title: 隐藏之年²
 weight: 1
 type: docs
-prev: /wiki/works/mods
 next: /wiki/works/mods/stone-craft
 ---
 [![隐藏之年](https://s41.ax1x.com/2026/02/17/pZONYge.png)](https://hy2.ctnstudios.top/)

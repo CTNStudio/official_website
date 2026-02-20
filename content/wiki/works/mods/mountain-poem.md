@@ -2,7 +2,7 @@
 title: 青丘辞
 weight: 5
 type: docs
-prev: /wiki/works/mods/tree-miner
+prev: /wiki/works/mods/stone-adventure
 ---
 ![青丘辞](https://s41.ax1x.com/2026/02/19/pZXZlcT.png)
 > 幽兰生冥叶，青华兮清清！

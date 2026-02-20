@@ -38,6 +38,8 @@ weight: 3
 **Minecraft：传说之剑**是主要由[星零大队长](/wiki/members/captain)制作的一款Minecraft同人游戏，最终未发布。
 
 玩家可[在此](https://space.bilibili.com/489185984/lists/105694?type=season)查看此游戏的开发日志。
+### 下载链接
+* [123云盘](https://www.123pan.com/s/JNc7Vv-D2Pbv)
 
 ## MixClassic 怀旧复合纹理包
 **怀旧复合纹理包**是一款Minecraft资源包，使用旧版颜色给新版形状的物品填色。此纹理包需要搭配「Classic Texture／Programmer Art」使用。
@@ -59,3 +61,9 @@ weight: 3
 * 基岩版：[夸克网盘](https://pan.quark.cn/s/24e88850e3ca)，提取码：me8b
 * Java版：[123云盘](https://www.123pan.com/s/JNc7Vv-a0Xbv.html)，提取码：SCJE
 * Java版：[夸克网盘](https://pan.quark.cn/s/58b3b3bd2638)，提取码：CS43
+
+## 矿树节
+**矿树节**是一款由星屹工作室开发、以植树节为主题的实用Mod。本 Mod 为原版的所有矿物添加了树木形态。
+### 下载链接
++ [MC百科](https://www.mcmod.cn/download/19044.html)
++ [Modrinth](https://modrinth.com/mod/tree-miner/version/CcnTMTm6)
