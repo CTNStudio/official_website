@@ -9,10 +9,10 @@ weight: 4
 
 **请注意**：早期开发作品并不等同于测试版作品。当作品发布正式版却仍未达到一定完善度时，仍视作早期开发作品。
 
-此页面更新于**2026年2月24日**。
+此页面更新于**2026年3月4日**。
 
 ## 自然行记
-**自然行记**是由[StoneNugget](/wiki/members/sn)制作的一款基岩版Addon，初期定位实用，未来将逐步向冒险发展。此Addon目前仍处在早期开发阶段。至此页面更新时的最新版本为0.1.5-beta.3。
+**自然行记**是由[StoneNugget](/wiki/members/sn)制作的一款基岩版Addon，初期定位实用，未来将逐步向冒险发展。此Addon目前仍处在早期开发阶段。至此页面更新时的最新版本为0.1.5。
 ### 相关链接
 * [Github](https://github.com/StoneNugget8237/NaturalJourney)
 * [Wiki](https://naturaljourney.fandom.com/zh/wiki/%E8%87%AA%E7%84%B6%E8%A1%8C%E8%AE%B0_Wiki)
@@ -23,7 +23,7 @@ weight: 4
 ## 传说之剑（Addon）
 **注意**：此条目的主题不是[Minecraft：传说之剑（同人游戏）](/wiki/discontinued-works/#minecraft传说之剑同人游戏)
 
-**传说之剑**目前是由星屹工作室·传说之剑开发专项组（目前以JD为主程序）负责开发的Addon，定位于「勇者七星」牺牲之后，因怪物残暴、战争了百年后的世界，玩家将挖掘遗迹探索真相，讨伐首领并复兴王国。至此页面更新时的最新版本为测试版018[原文如此]。
+**传说之剑**目前是由星屹工作室·传说之剑开发专项组（目前以JD为主程序）负责开发的Addon，定位于「勇者七星」牺牲之后，因怪物残暴、战争了百年后的世界，玩家将挖掘遗迹探索真相，讨伐首领并复兴王国。至此页面更新时的最新版本为0.1.2-beta.19。
 
 历史上曾存在过由[StoneNugget](/wiki/members/sn)制作的旧版传说之剑Addon，但内容大相径庭，且两者互不兼容，其发布版可在[mc百科](https://www.mcmod.cn/download/11636.html)下载。**此Addon在如今的Minecraft版本已失效。**
 ### 相关链接
