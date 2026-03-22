@@ -21,7 +21,7 @@ weight: 4
 * 最新测试版：[百度网盘](https://pan.baidu.com/s/1EHZOJ6SMleR7ylsvLdZ1Jg?pwd=njba)
 
 ## 传说之剑（Addon）
-{{< callout emoji="⚠️" >}}
+{{< callout type="warning" emoji="⚠️" >}}
   此作品处于缓慢更新状态
 {{< /callout >}}
 **注意**：此条目的主题不是[Minecraft：传说之剑（同人游戏）](/wiki/discontinued-works/#minecraft传说之剑同人游戏)
