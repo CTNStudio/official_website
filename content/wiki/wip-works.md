@@ -9,7 +9,7 @@ weight: 4
 
 **请注意**：早期开发作品并不等同于测试版作品。当作品发布正式版却仍未达到一定完善度时，仍视作早期开发作品。
 
-此页面更新于**2026年4月18日**。
+此页面更新于**2026年4月23日**。
 
 ## 自然行记
 **自然行记**是由[StoneNugget](/wiki/members/sn)制作的一款基岩版Addon，初期定位实用，未来将逐步向冒险发展。此Addon目前仍处在早期开发阶段。至此页面更新时的最新版本为0.1.5。
@@ -35,4 +35,4 @@ weight: 4
 ## 中式甲兵
 **中式甲兵**是由星屹工作室开发的一款java版mod，该mod添加了一系列中国传统武器与甲胄。为玩家带来战斗的沉浸感与体验。至此页面更新时的最新版本为0.1.5-gamma。
 ### 相关链接
-* [官方交流群](https://qm.qq.com/q/4lT1HiOYDS)（目前与[青丘辞](/wiki/works/mods/mountain-poem)共用）
+* [官方交流群](https://qun.qq.com/universal-share/share?ac=1&authKey=d3uGhQcHGxAXOAByyzEutXpC4SJZbuCzQ77cag7X2Jyym5a7gDkYL4QiMzprnG8w&busi_data=eyJncm91cENvZGUiOiIxMTAyMTA4Nzg3IiwidG9rZW4iOiJ1NTBUaVY5TWJsM1lnQThuYjVQNDhuWVUybkROcDRXVHp5ZkVlK1FNVnN1MXp2WDFwTUdrSmtFUlkwVzlEaEhuIiwidWluIjoiMTk3MjEzMDgzOSJ9&data=1yXnk49skGDeBwpNunDIsuqd51pRGbiAEb6PMASLZ4NXc_LKX4c9DonPR62ceehGWrp8x400cEiF74VZHB7mhg&svctype=4&tempid=h5_group_info)
