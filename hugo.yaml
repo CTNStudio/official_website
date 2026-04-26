@@ -1,14 +1,15 @@
 baseURL: https://beta.ctnstudios.top/
 languageCode: zh-cn
 title: 星屹工作室
-theme: hextra-0.11.1
+theme: hextra-0.12.2
 
 outputs:
-  home: [HTML]
-  page: [HTML]
-  section: [HTML, RSS]
+  home: [html, llms]
+  page: [html, markdown]
+  section: [html, rss, markdown]
 hasCJKLanguage: true
 defaultContentLanguage: zh-cn
+enableGitInfo: true
 languages:
   zh-cn:
     languageName: 简体中文
@@ -21,9 +22,18 @@ languages:
           name: 优秀作品
           pageRef: /wiki/works
           weight: 1
+        - identifier: team
+          name: 星屹团队
+          weight: 2  
         - identifier: members
-          name: 团队成员
+          name: 工作室成员
+          parent: team
           pageRef: /wiki/members
+          weight: 1
+        - identifier: department
+          name: 开发团队
+          parent: team
+          pageRef: /wiki/department
           weight: 2
         - identifier: wiki
           name: Wiki
@@ -33,12 +43,23 @@ languages:
           name: 了解更多
           pageRef: /about
           weight: 4
-        - name: Search
+        - identifier: community
+          name: 星屹社区
           weight: 5
+        - identifier: lab
+          name: 星屹实验室 ↗
+          url: https://lab.ctnstudios.top/
+          parent: community
+        - identifier: club
+          name: 星屹俱乐部 ↗
+          url: https://pd.qq.com/s/z2pfgbyz
+          parent: community
+        - name: Search
+          weight: 6
           params:
             type: search
         - name: GitHub
-          weight: 6
+          weight: 7
           url: "https://github.com/CTNStudio"
           params:
             icon: github
@@ -50,6 +71,18 @@ params:
     logo:
       path: favicon.ico
 
+  displayUpdatedDate: true
+  dateFormat: "2006年1月2日"
+  displayUpdatedAuthor: true
+
+  editURL:
+    enable: true
+    base: "https://github.com/CTNStudio/official_website/edit/main"
+
+  page:
+    contextMenu:
+      enable: true
+
   search:
     enable: true
     type: flexsearch
@@ -57,7 +90,13 @@ params:
     flexsearch:
       index: content
       tokenize: forward
-    
+  
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: true
+    width: normal
+
   banner:
     key: "announcement"
     message: 🔔由于近期蓝奏云在下载链接中插入流氓软件广告推广，请您下载文件时仔细甄别！

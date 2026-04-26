@@ -2,6 +2,8 @@
 title: 工作室成员
 type: docs
 prev: /wiki/history
+next: /wiki/department
+weight: 7
 ---
 
 ## 管理层
