@@ -24,6 +24,12 @@ weight: 7
 - Oldb：yesnewbee（夜视牛逼）（新蜜蜂对的）newbee（牛逼）（新逼）（油饼）（新蜜蜂）原名（老逼）（额滴笔）diobee（吊逼）（丢逼）newbeebar（牛逼吧）（你有病吧）（新蜜蜂吧）bakabee（巴卡逼）DuckBuBee（打个布丁）（大可不必）
 - Compaz：原名，小不点
 - mctiao：原名，跳跳
+- sf:原名，升扶
+- 南滇入：原名
+- 小希:原名，Xiris，Кирис
+- 末影洁：原名，End_Ying_Jie
+- 夙风：原名
+- 小海：原名，Призмарин，This_is_Prizmarin
 - 常规巡查：我的世界玩家哈，原名
 - 岔雾：原名，Chawu
 - Amarok：原名，AmarokIce，Someoneice，初雪·冰，咩狼，咩咩狼
