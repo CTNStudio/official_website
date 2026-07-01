@@ -46,12 +46,12 @@ languages:
         - identifier: community
           name: 星屹社区
           weight: 5
-        - identifier: lab
-          name: 星屹实验室 ↗
-          url: https://lab.ctnstudios.top/
+        - identifier: discord
+          name: CTN Club(discord) ↗
+          url: https://discord.gg/VmukaKshCm
           parent: community
         - identifier: club
-          name: 星屹俱乐部 ↗
+          name: 星屹俱乐部（QQ频道） ↗
           url: https://pd.qq.com/s/z2pfgbyz
           parent: community
         - name: Search
