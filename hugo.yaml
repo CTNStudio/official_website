@@ -47,7 +47,7 @@ languages:
           name: 星屹社区
           weight: 5
         - identifier: discord
-          name: CTN Club(discord) ↗
+          name: CTN Club（discord） ↗
           url: https://discord.gg/VmukaKshCm
           parent: community
         - identifier: club
