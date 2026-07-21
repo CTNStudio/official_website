@@ -3,7 +3,7 @@ title: 早期开发作品
 type: docs
 prev: /wiki/discontinued-works
 next: /wiki/works
-weight: 4
+weight: 5
 ---
 这里收录了星屹工作室正处在早期开发阶段的作品。这些作品尚未完善，请谨慎体验。
 

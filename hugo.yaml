@@ -1,11 +1,11 @@
 baseURL: https://beta.ctnstudios.top/
 languageCode: zh-cn
 title: 星屹工作室
-theme: hextra-0.12.2
+theme: hextra-0.12.3
 
 outputs:
-  home: [html, llms]
-  page: [html, markdown]
+  home: [html, llms, markdown]
+  page: [html, rss, markdown]
   section: [html, rss, markdown]
 hasCJKLanguage: true
 defaultContentLanguage: zh-cn
@@ -64,7 +64,23 @@ languages:
           params:
             icon: github
 
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+
+enableInlineShortcodes: true
+
 params:
+  description: 群「星」闪耀，始终如「屹」。星屹工作室致力于创作高质量的Minecraft扩展内容
   navbar:
     displayTitle: true
     displayLogo: true

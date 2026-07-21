@@ -1,6 +1,6 @@
 ---
 title: 著作权声明
-weight: 2
+weight: 3
 type: docs
 prev: /wiki/rules
 next: /wiki/discontinued-works

@@ -1,7 +1,8 @@
 ---
 title: 编辑规范
-weight: 1
+weight: 2
 type: docs
+prev: /wiki/start
 next: /wiki/copyright
 ---
 在您对本Wiki的任何内容进行编辑之前，您需要保证遵循以下规则。

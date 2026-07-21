@@ -3,7 +3,7 @@ title: 停更作品
 type: docs
 prev: /wiki/copyright
 next: /wiki/wip-works
-weight: 3
+weight: 4
 ---
 这里收录了星屹工作室制作的已停更作品，由于已不再维护，可能无法适配最新游戏版本，我们不建议您下载体验。各作品详细信息可自行前往旧Fandom Wiki或灰机Wiki了解（**已不再维护，不推荐**）
 

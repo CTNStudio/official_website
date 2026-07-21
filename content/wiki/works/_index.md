@@ -3,7 +3,7 @@ title: 维护中作品
 type: docs
 prev: /wiki/wip-works
 next: /wiki/history
-weight: 5
+weight: 6
 ---
 ## 模组&附加包
 {{< cards >}}

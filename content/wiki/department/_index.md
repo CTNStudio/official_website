@@ -2,7 +2,7 @@
 title: 开发团队
 type: docs
 prev: /wiki/members
-weight: 8
+weight: 9
 ---
 
 星屹工作室实行**开发团队制**，不同开发团队负责不同项目。
