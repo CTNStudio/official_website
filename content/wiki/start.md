@@ -58,7 +58,7 @@ next: /wiki/rules
 ### 将仓库克隆到本地
 
 ### 在本地进行部署
-+ 在powershall中进入克隆的仓库所在的目录
++ 在PowerShell中进入克隆的仓库所在的目录
 + 运行如下命令
 ```PowerShell
 hugo server
