@@ -77,19 +77,18 @@ comments: true
 
 ## 更新日志
 {{< details title="最新正式版" closed="true" >}}
-### 1.0.1 | 繁体与文言更新
+### 1.0.2
 #### 新增
-- 新增语言繁体中文（中国台湾）
-- 新增语言文言（华夏）
-
+- 武器技能提示
 #### 修复
-- 修正了俄文翻译的错误
+- 修复金细鳞甲配方无法合成的问题。
+- EI合成菜单帮助未显示的问题。
 
 {{< /details >}} 
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQllNajB5WDE4X1JMWTZqRmJNOEdTeUFZMEhvZ3ZjbXFLeWVsLVVsWTVXSTFjP2U9S0h1QW0x.jar" title="立即下载" subtitle="最新版本：1.0.1" tag="最新正式版" tagType="info" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQVA0X0Q5MnhUTFM1Njh0WHctSlJRckFXb1NuaE1nbUh5eUdZQmpa.jar" title="立即下载" subtitle="最新版本：1.0.2" tag="最新正式版" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
