@@ -4,6 +4,7 @@ type: docs
 prev: /wiki/discontinued-works
 next: /wiki/works
 weight: 5
+comments: true
 ---
 这里收录了星屹工作室正处在早期开发阶段的作品。这些作品尚未完善，请谨慎体验。
 
@@ -24,6 +25,7 @@ weight: 5
 {{< callout type="warning" >}}
   此作品处于缓慢更新状态
 {{< /callout >}}
+
 **注意**：此条目的主题不是[Minecraft：传说之剑（同人游戏）](/wiki/discontinued-works/#minecraft传说之剑同人游戏)
 
 **传说之剑**目前是由星屹工作室·传说之剑开发专项组负责开发的Addon，定位于「勇者七星」牺牲之后，因怪物残暴、战争了百年后的世界，玩家将挖掘遗迹探索真相，讨伐首领并复兴王国。至此页面更新时的最新版本为2.0.0-alpha.4。
@@ -32,7 +34,9 @@ weight: 5
 ### 相关链接
 * [官方交流群](https://qm.qq.com/q/Q8Nxh7VUIM)
 
-## 中式甲兵
-**中式甲兵**是由星屹工作室开发的一款java版mod，该mod添加了一系列中国传统武器与甲胄。为玩家带来战斗的沉浸感与体验。至此页面更新时的最新版本为0.1.8。
+## 中式甲兵（基岩版）
+**注意**：此条目的主题不是[中式甲兵（Java版）](/wiki/works/mods/chinese-weapon)
+
+**中式甲兵（基岩版）** 是中式甲兵（Java版）的官方移植，目前由方漓猫负责制作。
 ### 相关链接
 * [官方交流群](https://qun.qq.com/universal-share/share?ac=1&authKey=d3uGhQcHGxAXOAByyzEutXpC4SJZbuCzQ77cag7X2Jyym5a7gDkYL4QiMzprnG8w&busi_data=eyJncm91cENvZGUiOiIxMTAyMTA4Nzg3IiwidG9rZW4iOiJ1NTBUaVY5TWJsM1lnQThuYjVQNDhuWVUybkROcDRXVHp5ZkVlK1FNVnN1MXp2WDFwTUdrSmtFUlkwVzlEaEhuIiwidWluIjoiMTk3MjEzMDgzOSJ9&data=1yXnk49skGDeBwpNunDIsuqd51pRGbiAEb6PMASLZ4NXc_LKX4c9DonPR62ceehGWrp8x400cEiF74VZHB7mhg&svctype=4&tempid=h5_group_info)

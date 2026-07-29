@@ -80,6 +80,16 @@ markup:
 enableInlineShortcodes: true
 
 params:
+  comments:
+    enable: false
+    type: giscus
+
+    giscus:
+      repo: CTNStudio/official_website
+      repoId: R_kgDOM5npSQ
+      category: Announcements
+      categoryId: DIC_kwDOM5npSc4DCNo1
+
   description: 群「星」闪耀，始终如「屹」。星屹工作室致力于创作高质量的Minecraft扩展内容
   navbar:
     displayTitle: true

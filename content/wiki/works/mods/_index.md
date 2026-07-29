@@ -17,6 +17,7 @@ next: /wiki/works/tex
   {{< card link="stone-craft" icon="sparkles" title="石头工艺" subtitle="一款以石头为主题的实用模组" >}}
   {{< card link="mountain-poem" title="青丘辞" subtitle="一个能让你置身于古籍之中的中式模组" >}}
   {{< card link="hidden-years" title="隐藏之年²" subtitle="一款开发中的冒险模组" >}}
+  {{< card link="chinese-weapon" title="中式甲兵" subtitle="添加了多种中式盔甲与武器​" >}}
 {{< /cards >}}
 
 ## 中国版

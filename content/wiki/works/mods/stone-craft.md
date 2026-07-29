@@ -4,6 +4,7 @@ weight: 2
 type: docs
 prev: /wiki/works/mods/hidden-years
 next: /wiki/works/mods/stone-adventure
+comments: true
 ---
 石头工艺是一款以石头为主题的实用模组，让你背包里的圆石不再浪费！
 
@@ -68,9 +69,15 @@ next: /wiki/works/mods/stone-adventure
 + [MC百科](https://www.mcmod.cn/class/9862.html)
 + [QQ交流圈](https://qm.qq.com/cgi-bin/qm/qr?k=ehJSejYS4lqVbwwA0bfM1qjDMR8clyup&jump_from=webapi&authKey=02DGeTlJ7CEzt9+uK1YZTOEYERyroLi4ntYTB6qLpUoawYYtTiz8yVDwLD/aTxAO)
 ### 基岩版
+{{< cards cols="1" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRRC1jNDVZY212U1Q1YUR4Tjlpb042QUFlMW4zUnZnVkpPcDBoQk1rYVg2VDY0P2U9bTduZkVQ..mcaddon" title="立即下载" subtitle="最新版本：1.4.0" tag="基岩版·最新正式版" tagType="info" >}}
+{{< /cards >}}
 + [苦力怕论坛](https://klpbbs.com/thread-28013-1-1.html)
 + [MineBBS](https://www.minebbs.com/resources/stone-craft.5750/)
 ### Java版
+{{< cards cols="1" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQzhUZE45SGhYUlFxUkdaUXFocERuWUFaQW1DUWpRVUFLamszd0hmOFc2UEswP2U9NnJuS09i.jar" title="立即下载" subtitle="最新版本：1.0.2" tag="Java版·最新正式版" tagType="info" >}}
+{{< /cards >}}
 + [Modrinth](https://modrinth.com/mod/stone-craft)
 + [苦力怕论坛](https://klpbbs.com/thread-164580-1-1.html)
 + [MineBBS](https://www.minebbs.com/resources/stone-craft-java.12926/)

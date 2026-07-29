@@ -4,6 +4,7 @@ weight: 3
 type: docs
 prev: /wiki/works/mods/stone-craft
 next: /wiki/works/mods/mountain-poem
+comments: true
 ---
 磐石之旅是石头工艺的衍生冒险模组，让你背包里的圆石不再浪费！
 
@@ -16,7 +17,8 @@ next: /wiki/works/mods/mountain-poem
 - 方块：这个模组诞生之初第一个东东就是方块！通过挖掘石头，将九个石头合成为一个一级压缩石头，九个一级压缩石头合成一个二级压缩石头，以此类推……最高可达五级压缩石头！
 - 生物：我们添加了一些石头生物，这些生物大部会对你的生存造成威胁，但也不排除有友好的生物。 ~~一切生物可能存在的问题不修复都是作者摆烂！！！~~
 
-## 下载方式
-
-本Addon在以下渠道提供下载：
+## 相关链接
+{{< cards cols="1" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQVV5V0JYbGp6V1JadDcxaTlrR0VlU0FUZDhEd19Ndk11Uno0VTBtUGg2Zjh3P2U9bUZEUHhM..mcaddon" title="立即下载" subtitle="最新版本：0.16.2" tag="最新正式版" tagType="info" >}}
+{{< /cards >}}
 + [苦力怕论坛](https://klpbbs.com/thread-28013-1-1.html)

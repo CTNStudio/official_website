@@ -2,6 +2,7 @@
 title: 经典混合纹理包
 weight: 4
 type: docs
+comments: true
 ---
 复合纹理包是一款资源包，使用新版颜色给旧版形状的物品填色。
 

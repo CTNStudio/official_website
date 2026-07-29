@@ -3,6 +3,8 @@ title: 青丘辞
 weight: 5
 type: docs
 prev: /wiki/works/mods/stone-adventure
+next: /wiki/works/mods/chinese-weapon
+comments: true
 ---
 ![青丘辞](https://s41.ax1x.com/2026/02/19/pZXZlcT.png)
 > 幽兰生冥叶，青华兮清清！
@@ -33,6 +35,10 @@ prev: /wiki/works/mods/stone-adventure
 * 瘟疫之载会导致用户视角疯狂闪烁属于设定，可以通过副手手持特殊物品免疫。
 
 ## 相关链接
+{{< cards cols="1" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQkxPQ0t4XzYyWVJJa3o3SlUxT3hreEFSb3hGTUE1NjVBbklSWVVNZHlvbGtJP2U9QzltSXcx.jar" title="立即下载" subtitle="最新版本：1.5.4" tag="最新正式版" tagType="info" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQmlWbTlIQkVhWVFxNmN3aU1yUUhQSUFkd3hwWDF3T29oVU0xNXdUemc5bTZZP2U9d2h3NlFC.jar" title="立即下载" subtitle="最新版本：1.6.0" tag="最新测试版" tagType="warning" >}}
+{{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mountains-poem)
 + [Modrinth](https://modrinth.com/mod/mountains-poem)
 + [Github](https://github.com/Gutentagii/mountains_poem)

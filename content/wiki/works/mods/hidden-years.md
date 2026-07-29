@@ -3,6 +3,7 @@ title: 隐藏之年²
 weight: 1
 type: docs
 next: /wiki/works/mods/stone-craft
+comments: true
 ---
 [![隐藏之年](https://s41.ax1x.com/2026/02/17/pZONYge.png)](https://hy2.ctnstudios.top/)
 
@@ -121,9 +122,10 @@ Licensor:
 END OF TERMS AND CONDITIONS
 ```
 ## 相关链接
-**✨由于访问速度、更新速度等优势，我们强烈推荐您使用苦力怕论坛下载此Addon！✨**
+{{< cards cols="1" >}}
+  {{< card link="https://klpbbs.com/thread-85797-1-1.html" title="立即下载" subtitle="最新版本：3.0.11 | ✨由于访问速度、更新速度等优势，我们强烈推荐您使用苦力怕论坛下载此Addon！✨" tag="来自苦力怕论坛" tagType="info" >}}
+{{< /cards >}}
 + [官网](https://hy2.ctnstudios.top)
-+ [苦力怕论坛](https://klpbbs.com/thread-85797-1-1.html)
 + [Codeberg](https://codeberg.org/TeamOccultus/HiddenYears2)
 + [MC百科](https://www.mcmod.cn/class/12453.html)
 + [MineBBS](https://www.minebbs.com/resources/6182/)
