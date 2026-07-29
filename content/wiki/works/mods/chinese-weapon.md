@@ -88,7 +88,7 @@ comments: true
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQVA0X0Q5MnhUTFM1Njh0WHctSlJRckFXb1NuaE1nbUh5eUdZQmpa.jar" title="立即下载" subtitle="最新版本：1.0.2" tag="最新正式版" tagType="info" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQVA0X0Q5MnhUTFM1Njh0WHctSlJRckFXb1NuaE1nbUh5eUdZQmpaUFN5Mmdv.jar" title="立即下载" subtitle="最新版本：1.0.2" tag="最新正式版" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
