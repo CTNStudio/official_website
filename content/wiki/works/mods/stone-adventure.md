@@ -17,8 +17,51 @@ comments: true
 - 方块：这个模组诞生之初第一个东东就是方块！通过挖掘石头，将九个石头合成为一个一级压缩石头，九个一级压缩石头合成一个二级压缩石头，以此类推……最高可达五级压缩石头！
 - 生物：我们添加了一些石头生物，这些生物大部会对你的生存造成威胁，但也不排除有友好的生物。 ~~一切生物可能存在的问题不修复都是作者摆烂！！！~~
 
+## 更新日志
+{{< details title="最新正式版" closed="true" >}}
+### 0.17.0
+#### 修改与新内容
+
+##### 物品
+- 下调了压缩石矛的伤害
+- 优化了石粒的使用体验
+- 新生之石和藏生之石现可被堆肥
+- 苔石现可用于合成压缩石头
+- 大幅修改了各工具和盔甲的耐久值与修复逻辑
+- 添加了樗蕨化石和富油的樗蕨化石
+- 添加了髓石砖和扩容石板，移除了带效果的晶石髓
+
+##### 生物
+- 削弱了绝大部分石头生物的血量
+- 削弱了远古石头守卫及其熔铸变种的伤害
+- 削弱了石头射手施加的缓慢效果持续时间
+- 远古石头守卫现可在下界正常生成，而不是总转化为熔铸远古石头守卫
+- 提高了部分变种掉落较高级压缩石头的概率
+- 提高了远古石头守卫掉落头颅残骸的概率
+- 手持武器的石头生物现其武器有概率带有附魔
+- 添加了砂岩变种和流浪收藏家
+
+##### 世界生成
+- 添加了磐石菇林群系
+- 修改了所有石头刷怪笼的结构
+- 提高了废弃驿站生成概率，降低石头刷怪笼的生成概率
+
+##### 其它
+- 现支持灵动视效
+- 规范了刷怪蛋纹理文件名
+- 同步更新了任务
+- 删除了 him
+
+#### 修复
+- 修复了无法提交击杀熔铸石头守卫，熔铸远古石头守卫，苔石守卫任务的 bug
+- 修复了石头守卫转化为其他变种不会攻击的 bug
+- 修复了石头食物食用时无减速的问题
+- 修复了石头工具无法正常挖掘部分方块的问题
+
+{{< /details >}} 
+
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQVV5V0JYbGp6V1JadDcxaTlrR0VlU0FUZDhEd19Ndk11Uno0VTBtUGg2Zjh3P2U9bUZEUHhM..mcaddon" title="立即下载" subtitle="最新版本：0.16.2" tag="最新正式版" tagType="info" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQk53eHhGX2FzMlI3bWxNZzhHQTBKUEFkcEN5Zm9FZkV0d2FLVGRuOEVPYlJZP2U9REdsdFo3.mcaddon" title="立即下载" subtitle="最新版本：0.17.0" tag="支持基岩版1.26.0+" tagType="info" >}}
 {{< /cards >}}
 + [苦力怕论坛](https://klpbbs.com/thread-28013-1-1.html)
