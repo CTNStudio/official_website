@@ -77,18 +77,18 @@ comments: true
 
 ## 更新日志
 {{< details title="最新正式版" closed="true" >}}
-### 1.0.2
+### 1.0.3
 #### 新增
-- 武器技能提示
+- 指引书新内容。
 #### 修复
-- 修复金细鳞甲配方无法合成的问题。
-- JEI合成菜单帮助未显示的问题。
+- 修正武器数值不平衡问题。
+- 修正指引书格式错误。
 
 {{< /details >}} 
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQVA0X0Q5MnhUTFM1Njh0WHctSlJRckFXb1NuaE1nbUh5eUdZQmpaUFN5Mmdv.jar" title="立即下载" subtitle="最新版本：1.0.2" tag="最新正式版" tagType="info" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQk5rZHl2aWxOblNMUWRhdmJfalljMEFSVW1teVJ2VFprZzJnWmxuRUNyVDU4P2U9WkZEZGVl.jar" title="立即下载" subtitle="最新版本：1.0.3" tag="支持Forge 1.20.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
