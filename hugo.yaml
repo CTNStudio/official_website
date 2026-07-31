@@ -63,6 +63,10 @@ languages:
           url: "https://github.com/CTNStudio"
           params:
             icon: github
+    params:
+      banner:
+        message: |
+          🔔本网站直链下载基于OneDrive，某些情况下可能无法使用 
 
 markup:
   highlight:
