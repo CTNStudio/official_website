@@ -14,28 +14,28 @@ comments: true
 
 ## 玩法概述
 ### 更多盔甲
-<img src="https://s41.ax1x.com/2026/07/29/pmfMOwq.png" alt="更多盔甲 - 中式甲兵" style="float:right; width:300px; height:auto;">
+<img src="https://s41.ax1x.com/2026/07/29/pmfMOwq.png" alt="更多盔甲 - 中式甲兵" style="float:right; width:350px; height:auto;">
 
 加入了29套中式盔甲，其中包括类套不同的铁质中式甲另加其金质、钻石质、下界合金质的变种共28套，以及一套唐代步兵铁甲。
 
 这些盔甲都可以使用游戏中的甲兵锻造台在生存模式合成，也可以通过锻造之石快速升级原版盔甲来获得。
 
 ### 更多武器
-<img src="https://s41.ax1x.com/2026/07/29/pmfQppF.png" alt="更多武器 - 中式甲兵" style="float:right; width:300px; height:auto;">
+<img src="https://s41.ax1x.com/2026/07/29/pmfQppF.png" alt="更多武器 - 中式甲兵" style="float:right; width:350px; height:auto;">
 
 加入了3种新的武器类型：戈、偃月刀，和方天画戟。这些武器都具有着独特的技能。
 
 例如戈可以右键将生物钩至身边同时造成伤害，方天画戟在潜行时使用可以对生物造成击退效果并给予负面效果，偃月刀可以潜行右键进行造成持续范围伤害。这些武器也同样可以在生存模式下合成！
 
 ### 更多合成材料
-<img src="https://s41.ax1x.com/2026/07/29/pmfQATx.png" alt="更多合成材料 - 中式甲兵" style="float:right; width:300px; height:auto;">
+<img src="https://s41.ax1x.com/2026/07/29/pmfQATx.png" alt="更多合成材料 - 中式甲兵" style="float:right; width:350px; height:auto;">
 
 本模组还加入了一系列合成材料，提升锻造武器与盔甲的真实感。你可以选择在甲兵锻造台上使用甲片亲手打造盔甲，也可以选择更加便捷的合成方式：使用锻造之石升级原版盔甲。
 
 同时模组还加入了一种新的矿物：远古宝石，用于合成特殊武器。
 
 ### 兼容与联动
-<img src="https://s41.ax1x.com/2026/07/29/pmfQk01.png" alt="兼容与联动 - 中式甲兵" style="float:right; width:300px; height:auto;">
+<img src="https://s41.ax1x.com/2026/07/29/pmfQk01.png" alt="兼容与联动 - 中式甲兵" style="float:right; width:350px; height:auto;">
 
 模组支持使用JEI来查看模组内工作方块的配方，这可以帮助你快速寻找盔甲或武器的合成配方。
 
@@ -77,18 +77,14 @@ comments: true
 
 ## 更新日志
 {{< details title="最新正式版" closed="true" >}}
-### 1.0.3
-#### 新增
-- 指引书新内容。
-#### 修复
-- 修正武器数值不平衡问题。
-- 修正指引书格式错误。
+### 1.0.5
+- 修复一些已知问题。
 
 {{< /details >}} 
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQk5rZHl2aWxOblNMUWRhdmJfalljMEFSVW1teVJ2VFprZzJnWmxuRUNyVDU4P2U9WkZEZGVl.jar" title="立即下载" subtitle="最新版本：1.0.3" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQWZNSE5SOXJtbVFwVmNraXRFcUFpUEFYUUZHN00zWGZWUGdxLWIxVGo3NTNJ.jar" title="立即下载" subtitle="最新版本：1.0.5" tag="支持Forge 1.20.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
