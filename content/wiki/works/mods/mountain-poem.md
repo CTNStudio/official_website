@@ -34,10 +34,25 @@ comments: true
 * 本模组1.4.4以后版本与[Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel)冲突
 * 瘟疫之载会导致用户视角疯狂闪烁属于设定，可以通过副手手持特殊物品免疫。
 
+## 更新日志
+{{< details title="最新正式版" closed="true" >}}
+### 1.0.5
+- 修复 蜚玩家靠近他时会一直显示左手攻击
+- 修复 举父有攻击创造模式下的玩家的举动
+- 修复 冥鬼建模显示异常，野鬼一直举手
+- 修复 白猿攀爬爪贴墙之后飞起来特别高而且只能上升
+- 修复 蜚金身之后会强行执行鼠标左键（攻击/破坏）
+- 修复 荣草块茎泥土左键破坏只掉落块茎不掉落泥土
+- 修复 鹿蜀皮左键消耗物品但不召唤猪
+- 修复 骑的时候无法跨过一个高的方块儿，骑乘驯服的时候要自己来回下马上马
+- 修复 水马不上鞍或铠甲的话，他无法起骑而且野生的可以蹲下右键打开他的背包然后一旦进入水面就会一直来回跳并不会移动了，穿上盔甲后在背包界面不显示，骑乘机制问题
+- 修复 品红色的灯笼建模显示异常青色和淡蓝色灯笼颜色一模一样
+
+{{< /details >}} 
+
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQkxPQ0t4XzYyWVJJa3o3SlUxT3hreEFSb3hGTUE1NjVBbklSWVVNZHlvbGtJP2U9QzltSXcx.jar" title="立即下载" subtitle="最新版本：1.5.4" tag="最新正式版" tagType="info" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQmlWbTlIQkVhWVFxNmN3aU1yUUhQSUFkd3hwWDF3T29oVU0xNXdUemc5bTZZP2U9d2h3NlFC.jar" title="立即下载" subtitle="最新版本：1.6.0" tag="最新测试版" tagType="warning" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQXY2VVV1RnJWVFJZRjFCMmNCRk9QVEFmSVd5Umo5LVhoVk1pVnYtai1RUW9zP2U9TjI5M0Rm.jar" title="立即下载" subtitle="最新版本：1.6.1" tag="支持Forge 1.20.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mountains-poem)
 + [Modrinth](https://modrinth.com/mod/mountains-poem)
