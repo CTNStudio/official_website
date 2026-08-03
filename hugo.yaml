@@ -107,7 +107,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/CTNStudio/official_website/edit/main"
+    base: "https://github.com/CTNStudio/official_website/edit/main/content"
 
   page:
     contextMenu:
