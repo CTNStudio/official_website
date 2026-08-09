@@ -121,11 +121,29 @@ Licensor:
 
 END OF TERMS AND CONDITIONS
 ```
+
+## 更新日志
+{{< details title="最新正式版" closed="true" >}}
+### 3.0.13
+#### 修改
++ 对弩启用了附魔机制
++ 延长了红宝石狮鹫蛋孵化所需时长
++ 优化了红宝石狮鹫的素敌范围与追击速度
+#### 修复
++ 修复了「天空即为极限?」任务没有启用自动提交的问题
++ 修复了弩拉弦后丢失物品信息、无法检测到非副手弹药的问题
++ 修复了红宝石狮鹫蛋使用石头音效的问题
++ 修复了红宝石狮鹫动画的一些问题
++ 修复了红宝石狮鹫没有音效的问题
++ 修复了红宝石狮鹫座位错位的问题
+
+{{< /details >}} 
+
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://klpbbs.com/thread-85797-1-1.html" title="立即下载" subtitle="最新版本：3.0.11 | ✨由于访问速度、更新速度等优势，我们强烈推荐您使用苦力怕论坛下载此Addon！✨" tag="来自苦力怕论坛" tagType="info" >}}
+  {{< card link="https://klpbbs.com/thread-85797-1-1.html" title="立即下载" subtitle="最新版本：3.0.13 | ✨由于访问速度、更新速度等优势，我们强烈推荐您使用苦力怕论坛下载此Addon！✨" tag="来自苦力怕论坛" tagType="info" >}}
 {{< /cards >}}
-+ [官网](https://hy2.ctnstudios.top)
++ [官网](https://hy.ctnstudios.top)
 + [Codeberg](https://codeberg.org/TeamOccultus/HiddenYears2)
 + [MC百科](https://www.mcmod.cn/class/12453.html)
 + [MineBBS](https://www.minebbs.com/resources/6182/)
