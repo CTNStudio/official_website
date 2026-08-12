@@ -50,15 +50,15 @@ comments: true
   {{< tab name="可选前置" >}}
   - [JEI](https://www.mcmod.cn/class/459.html)
   - [帕秋莉手册](https://www.mcmod.cn/class/1388.html)
-  + [EMI](https://www.mcmod.cn/class/6630.html)
-  + [KubeJS](https://www.mcmod.cn/class/2450.html)
+  - [EMI](https://www.mcmod.cn/class/6630.html)
+  - [KubeJS](https://www.mcmod.cn/class/2450.html)
   {{< /tab >}}
   {{< tab name="支持语言" >}}
   - 简体中文
   - English（英文）
   - русский язык（俄文）
-  + 繁体中文（台湾省）
-  + 文言（華夏）
+  - 繁体中文（台湾省）
+  - 文言（華夏）
   {{< /tab >}}
   {{< tab name="开发者名单" >}}
   #### 星屹工作室（CTN STUDIO）
