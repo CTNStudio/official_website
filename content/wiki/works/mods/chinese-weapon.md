@@ -50,11 +50,15 @@ comments: true
   {{< tab name="可选前置" >}}
   - [JEI](https://www.mcmod.cn/class/459.html)
   - [帕秋莉手册](https://www.mcmod.cn/class/1388.html)
+  + [EMI](https://www.mcmod.cn/class/6630.html)
+  + [KubeJS](https://www.mcmod.cn/class/2450.html)
   {{< /tab >}}
   {{< tab name="支持语言" >}}
   - 简体中文
   - English（英文）
   - русский язык（俄文）
+  + 繁体中文（台湾省）
+  + 文言（華夏）
   {{< /tab >}}
   {{< tab name="开发者名单" >}}
   #### 星屹工作室（CTN STUDIO）
@@ -64,11 +68,11 @@ comments: true
   - 星零大队长：美术
   - 小史龙吖Slime_Dragon：美术
   - Призмарин：俄文翻译
-  - 方漓猫：基岩版移植（移植中）
 
   #### 鸣谢
   - spake404：代码支持
   - BaiGave：代码支持
+  - 枯枝落叶花：代码支持
   - 阳炎：建议
   - 吉祥物：叹息之塔（Tower of Sighs）
   {{< /tab >}}
@@ -77,14 +81,19 @@ comments: true
 
 ## 更新日志
 {{< details title="最新正式版" closed="true" >}}
-### 1.1.3
-- 是模组也，实为天人之作，未尝有更新日志之俗物。比及此版，乃除若干漏洞而已。
+### 1.1.5
+#### 新增
++ 添加KubeJS兼容
++ 添加EMI兼容
++ 添加Better Combat兼容
+#### 改动
++ 修改横刀模型
 
 {{< /details >}} 
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQXBXRm9YTVRUTVE3alVOWjdkRVY1M0FhbmtDeEd4cUlReUN0N3AxNU9wbmFJP2U9MGtNZHdH.jar" title="立即下载" subtitle="最新版本：1.1.3" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRRFJMZjdsNjM2eFNhX0QtX2JBd3lLbkFmZzZYUFVLNmR0cEQwRzRNMUJuUnJvP2U9a2hNaXM0.jar" title="立即下载" subtitle="最新版本：1.1.5" tag="支持Forge 1.20.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
