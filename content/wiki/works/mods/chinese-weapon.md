@@ -81,19 +81,18 @@ comments: true
 
 ## 更新日志
 {{< details title="最新正式版" closed="true" >}}
-### 1.1.5
-#### 新增
-+ 添加KubeJS兼容
-+ 添加EMI兼容
-+ 添加Better Combat兼容
-#### 改动
-+ 修改横刀模型
+### 1.1.11
+#### 更改
++ 修复一些已知问题
+#### 移除
++ 移除了更新日志
 
 {{< /details >}} 
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRRFJMZjdsNjM2eFNhX0QtX2JBd3lLbkFmZzZYUFVLNmR0cEQwRzRNMUJuUnJvP2U9a2hNaXM0.jar" title="立即下载" subtitle="最新版本：1.1.5" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35634902#" title="立即下载" subtitle="最新版本：1.1.11" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35689869#" title="立即下载" subtitle="最新版本：1.1.11" tag="支持NeoForge 1.21.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)

@@ -52,7 +52,7 @@ comments: true
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvYy81ZTUyNTlmMDMyODAyODliL0lRQXY2VVV1RnJWVFJZRjFCMmNCRk9QVEFmSVd5Umo5LVhoVk1pVnYtai1RUW9zP2U9TjI5M0Rm.jar" title="立即下载" subtitle="最新版本：1.6.1" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35716029#" title="立即下载" subtitle="最新版本：1.6.1" tag="支持Forge 1.20.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mountains-poem)
 + [Modrinth](https://modrinth.com/mod/mountains-poem)
