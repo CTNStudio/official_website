@@ -51,6 +51,7 @@ comments: true
   {{< tab name="支持版本" >}}
    - Forge 1.20.1
    - Forge 1.21.1
+   - 网易我的世界基岩版 组件码 5002565
   {{< /tab >}}
   {{< tab name="可选前置" >}}
   - [JEI](https://www.mcmod.cn/class/459.html)
