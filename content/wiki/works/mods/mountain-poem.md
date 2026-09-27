@@ -9,6 +9,14 @@ comments: true
 ![青丘辞](https://s41.ax1x.com/2026/02/19/pZXZlcT.png)
 > 幽兰生冥叶，青华兮清清！
 
+[![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/978515?style=for-the-badge&logo=educative&logoColor=%23F16436&label=For%20MiaoCraft%20Version)](https://www.curseforge.com/minecraft/mc-mods/mountains-poem)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/WxvSrj17?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&label=modrinth%20miaomiao%20ovo)](https://modrinth.com/mod/mountains-poem)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/978515?style=for-the-badge&logo=curseforge&logoColor=%23F16436&label=curseforge%20miaomiao%20ovo)](https://www.curseforge.com/minecraft/mc-mods/mountains-poem)
+
+{{< callout type="warning" >}}
+此作品处于缓慢更新状态，仅进行修复bug，等待重制。
+{{< /callout >}}
+
 <!--more-->
 
 ## 玩法概述
@@ -35,7 +43,7 @@ comments: true
 * 瘟疫之载会导致用户视角疯狂闪烁属于设定，可以通过副手手持特殊物品免疫。
 
 ## 更新日志
-{{< details title="最新正式版" closed="true" >}}
+{{< details title="以往更新日志" closed="true" >}}
 ### 1.6.1
 - 修复 蜚玩家靠近他时会一直显示左手攻击
 - 修复 举父有攻击创造模式下的玩家的举动
@@ -52,7 +60,7 @@ comments: true
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35716029#" title="立即下载" subtitle="最新版本：1.6.1" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35716029#" title="立即下载" subtitle="最新版本：<img src='https://img.shields.io/modrinth/v/WxvSrj17?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&labelColor=rgba(0%2C%20128%2C%20255%2C%200.8)&color=rgba(0%2C%20128%2C%20255%2C%200.8)'>" tag="支持Forge 1.20.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/mountains-poem)
 + [Modrinth](https://modrinth.com/mod/mountains-poem)
