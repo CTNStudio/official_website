@@ -117,8 +117,8 @@ comments: true
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35634902#" title="立即下载" subtitle="最新版本：<img src='https://img.shields.io/modrinth/v/nweFmOF7?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&labelColor=rgba(0%2C%20128%2C%20255%2C%200.8)&color=rgba(0%2C%20128%2C%20255%2C%200.8)'>" tag="支持Forge 1.20.1" tagType="info" >}}
-  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35689869#" title="立即下载" subtitle="最新版本：<img src='https://img.shields.io/modrinth/v/nweFmOF7?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&labelColor=rgba(0%2C%20128%2C%20255%2C%200.8)&color=rgba(0%2C%20128%2C%20255%2C%200.8)'>" tag="支持NeoForge 1.21.1" tagType="info" >}}
+  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35634902#" title="立即下载" subtitle="最新版本：<img src='https://img.shields.io/modrinth/v/nweFmOF7?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&labelColor=rgba(0%2C%20128%2C%20255%2C%200.8)&color=rgba(0%2C%20128%2C%20255%2C%200.8)' style='border-radius: 5px;'>" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35689869#" title="立即下载" subtitle="最新版本：<img src='https://img.shields.io/modrinth/v/nweFmOF7?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&labelColor=rgba(0%2C%20128%2C%20255%2C%200.8)&color=rgba(0%2C%20128%2C%20255%2C%200.8)' style='border-radius: 5px;'>" tag="支持NeoForge 1.21.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
