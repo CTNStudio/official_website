@@ -96,29 +96,57 @@ comments: true
 
 ## 更新日志
 {{< details title="最新正式版" closed="true" >}}
-## ·Forge 1.20.1<br>
-### ·调整<br>
-        步人甲免疫箭矢并反弹，生命值大于30%不受缓慢buff，提升护甲值与全套穿戴提供额外伤害。
-        唐代步兵甲 提升护甲值，允许在雪地行走。
-        戈 减少 1点 伤害，让玩家在骑乘时取消骑乘概率调整为40%。
-        所有技能消耗 2 点耐久。
-        cuts 药水效果 攻击时30%概率扣除 1点 血量。
-        bleed 药水效果 每秒扣除 1点 血量。
-        调整横刀模型。
-        锻造台全新机制。
-### ·新增<br>
-        偃月刀技能 右键如果玩家/生物处于奔跑状态 有概率使其停止行动。
-        武器 梭枪 拥有投掷与近战两项使用方式。玩家右键可将其投掷而出，效果类似于三叉戟，用于中远距离打击目标。<br>
-        武器 骨朵 跳跃攻击可以压扁被攻击实体。
-        武器 宋代立盾 可以作为盾牌与通过指定快捷键进行放置；放置后可以反弹箭矢， 在盾牌左侧右击可以向左侧旋转15°，以此类推，免疫药水与火焰伤害，盾牌后方免疫前方的爆炸伤害。
-        盔甲 面甲 穿戴蹲下后，可以恐吓玩家周围3-13的实体，冷却 3秒。
-        盔甲 宋代步兵甲 暂时未加入任何特殊属性。
+{{< tabs >}}
+
+{{< tab name="1.20.1" icon="forge">}}
+### 1.2.0
+#### 调整
+
+- **步人甲**：免疫箭矢并反弹投射物。当穿戴者生命值高于 30% 时，无法被施加缓慢效果。提升护甲值。全套套装加成：造成额外伤害。
+- **唐代步兵甲**：提升护甲值。可在雪地上自如行走。
+- **戈**：基础伤害降低 1 点。骑乘状态下攻击时，有 40% 几率将目标击下坐骑。
+- 所有技能使用时消耗 2 点耐久。
+- `cuts`（割伤）药水效果：攻击命中时有 30% 几率造成 1 点 HP 伤害。
+- `bleed`（流血）药水效果：每秒造成 1 点 HP 伤害。
+- 重塑了横刀模型。
+- 重做了锻造台机制。
+
+#### 新增
+
+- **新技能（偃月刀）**：右键点击。若目标玩家/生物处于疾跑状态，有几率使其停下移动。
+- **梭枪**：双模式：近战与投掷。右键投掷，类似三叉戟，用于中距离战斗。
+- **骨朵**：跳劈会砸扁命中的实体。
+- **宋代立盾**：作为手持盾牌使用；按下指定快捷键放置。放置后可反弹箭矢。右键点击盾牌左侧使其向左旋转 15°，右侧同理。免疫药水效果与火焰伤害。盾牌后方的实体不会受到来自盾牌前方爆炸的伤害。
+- **面甲**：穿戴后蹲伏时，可恐吓穿戴者周围 3–13 格范围内的实体。冷却时间 3 秒。
+- **宋代步兵甲**：暂未实现特殊属性。
+
+### 1.2.0-fix
++ 修复渲染错误
++ 修改盔甲纹理
+
+### 1.2.0-hotfix 
+#### 更改
++ 回收立盾判定
+  + 修改机制 立盾蹲下右键旋转角度 直接右键 如果手持木板则修复立盾
++ 调整创造物品栏排序
+
+{{< badge content="敬请期待" color="blue" >}}
+
+
+  {{< /tab >}}
+  {{< tab name="1.21.1" icon="neoforge" >}}
+### 1.1.11
++ 修复一些已知问题
+  {{< /tab >}}
+
+{{< /tabs >}}
+
 {{< /details >}} 
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35634902#" title="立即下载" subtitle="最新版本：<img src='https://img.shields.io/modrinth/v/nweFmOF7?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&labelColor=rgba(0%2C%20128%2C%20255%2C%200.8)&color=rgba(0%2C%20128%2C%20255%2C%200.8)' style='border-radius: 5px;'>" tag="支持Forge 1.20.1" tagType="info" >}}
-  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35689869#" title="立即下载" subtitle="最新版本：<img src='https://img.shields.io/modrinth/v/nweFmOF7?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&labelColor=rgba(0%2C%20128%2C%20255%2C%200.8)&color=rgba(0%2C%20128%2C%20255%2C%200.8)' style='border-radius: 5px;'>" tag="支持NeoForge 1.21.1" tagType="info" >}}
+  {{< card link="https://files.ctnstudios.top/down.php/d6b91a871ab68551391cce30eefbdb20.jar" title="立即下载" subtitle="最新版本：1.2.0-fix" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35689869#" title="立即下载" subtitle="最新版本：1.11.1" tag="支持NeoForge 1.21.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
