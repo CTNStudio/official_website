@@ -99,44 +99,18 @@ comments: true
 {{< tabs >}}
 
 {{< tab name="1.20.1" icon="forge">}}
-### 1.2.0
-#### 调整
-
-- **步人甲**：免疫箭矢并反弹投射物。当穿戴者生命值高于 30% 时，无法被施加缓慢效果。提升护甲值。全套套装加成：造成额外伤害。
-- **唐代步兵甲**：提升护甲值。可在雪地上自如行走。
-- **戈**：基础伤害降低 1 点。骑乘状态下攻击时，有 40% 几率将目标击下坐骑。
-- 所有技能使用时消耗 2 点耐久。
-- `cuts`（割伤）药水效果：攻击命中时有 30% 几率造成 1 点 HP 伤害。
-- `bleed`（流血）药水效果：每秒造成 1 点 HP 伤害。
-- 重塑了横刀模型。
-- 重做了锻造台机制。
-
-#### 新增
-
-- **新技能（偃月刀）**：右键点击。若目标玩家/生物处于疾跑状态，有几率使其停下移动。
-- **梭枪**：双模式：近战与投掷。右键投掷，类似三叉戟，用于中距离战斗。
-- **骨朵**：跳劈会砸扁命中的实体。
-- **宋代立盾**：作为手持盾牌使用；按下指定快捷键放置。放置后可反弹箭矢。右键点击盾牌左侧使其向左旋转 15°，右侧同理。免疫药水效果与火焰伤害。盾牌后方的实体不会受到来自盾牌前方爆炸的伤害。
-- **面甲**：穿戴后蹲伏时，可恐吓穿戴者周围 3–13 格范围内的实体。冷却时间 3 秒。
-- **宋代步兵甲**：暂未实现特殊属性。
-
-### 1.2.0-fix
-+ 修复渲染错误
-+ 修改盔甲纹理
-
-### 1.2.0-hotfix 
-#### 更改
-+ 回收立盾判定
-  + 修改机制 立盾蹲下右键旋转角度 直接右键 如果手持木板则修复立盾
-+ 调整创造物品栏排序
-
-{{< badge content="敬请期待" color="blue" >}}
+### 1.2.1.2
++ 调整部分盔甲贴图以及模型
++ 修正语言文件叙述错误
 
 
   {{< /tab >}}
   {{< tab name="1.21.1" icon="neoforge" >}}
-### 1.1.11
-+ 修复一些已知问题
+### 1.2.1.1
++ 调整部分盔甲贴图以及模型
++ 修正语言文件叙述错误
++ 修复副手禁用问题
++ 修复键位异常问题
   {{< /tab >}}
 
 {{< /tabs >}}
@@ -145,8 +119,8 @@ comments: true
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://files.ctnstudios.top/down.php/d6b91a871ab68551391cce30eefbdb20.jar" title="立即下载" subtitle="最新版本：1.2.0-fix" tag="支持Forge 1.20.1" tagType="info" >}}
-  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35689869#" title="立即下载" subtitle="最新版本：1.11.1" tag="支持NeoForge 1.21.1" tagType="info" >}}
+  {{< card link="https://files.ctnstudios.top/down.php/ec91ec3697298efc089c16d1a3118144.jar" title="立即下载" subtitle="最新版本：1.2.1.2" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://files.ctnstudios.top/down.php/ae3a48f6c10caf9e11515a5521eab43f.jar" title="立即下载" subtitle="最新版本：1.2.1.1" tag="支持NeoForge 1.21.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
