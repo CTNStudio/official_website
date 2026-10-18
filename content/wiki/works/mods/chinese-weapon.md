@@ -8,9 +8,10 @@ comments: true
 ![中式甲兵](https://s41.ax1x.com/2026/07/29/pmfMty9.png)
 > <p style="text-align:left;">修我甲兵，与子偕行！<span style="float:right;">——出自《秦风·无衣》</span></p>
 
-[![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/1628670?style=for-the-badge&logo=educative&logoColor=%23F16436&label=For%20MiaoCraft%20Version)](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/nweFmOF7?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&label=modrinth%20miaomiao%20ovo)](https://modrinth.com/mod/chinese-weapons)
-[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1628670?style=for-the-badge&logo=curseforge&logoColor=%23F16436&label=curseforge%20miaomiao%20ovo)](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
+[![Latest Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2FCTNStudio%2FChineseWeapons%2Freleases%2Flatest&query=%24.tag_name&style=for-the-badge&logo=github&label=Latest%20Release)](https://github.com/CTNStudio/ChineseWeapons/releases/latest)
+[![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/1628670?style=for-the-badge&logo=educative&logoColor=%23F16436&label=For%20MineCraft%20Version)](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/nweFmOF7?style=for-the-badge&logo=modrinth&logoColor=%2300AF5C&label=modrinth%20downloads)](https://modrinth.com/mod/chinese-weapons)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1628670?style=for-the-badge&logo=curseforge&logoColor=%23F16436&label=curseforge%20downloads)](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 
 《中式甲兵》是由星屹工作室制作的中式武器模组，为游戏添加了多种中式盔甲与武器，以及一系列合成材料与新的矿物​。
 
