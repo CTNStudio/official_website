@@ -8,10 +8,10 @@ weight: 8
 
 ## 管理层
 {{< cards >}}
-  {{< card link="captain" title="大队长_Captain" subtitle="工作室室长，纹理包作者" >}}
+  {{< card link="captain" title="星零大队长" subtitle="工作室室长，纹理包作者" >}}
   {{< card link="sn" title="Stone Nugget" subtitle="工作室副室长，附加包作者" >}}
-  {{< card link="ykl" title="鬼才亚克力" subtitle="工作室管理员，纹理包作者" >}}
-  {{< card link="jin" title="小尽" subtitle="工作室管理员，模组作者" >}}
+  {{< card link="ykl" title="是亚克力" subtitle="工作室管理员，纹理包作者" >}}
+  {{< card link="jin" title="哈基尽" subtitle="工作室管理员，模组作者" >}}
   {{< card link="raw-diamond" title="RawDiamondMC" subtitle="工作室管理员，模组作者" >}}
 {{< /cards >}}
 
