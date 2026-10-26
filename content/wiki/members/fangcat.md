@@ -3,6 +3,7 @@ title: 方漓猫
 type: docs
 weight: 6
 prev: /raw-diamond
+next: /oldb
 ---
 ## 个人信息
 中文名：方漓猫
