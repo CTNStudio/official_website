@@ -18,6 +18,7 @@ weight: 8
   {{< card link="jin" title="哈基尽" subtitle="JE程序，模组作者" >}}
   {{< card link="raw-diamond" title="RawDiamondMC" subtitle="JE程序，模组作者" >}}
   {{< card link="fangcat" title="方漓猫" subtitle="隐年开发组负责人，模组作者" >}}
+  {{< card link="oldb" title="OLDB" subtitle="石艺开发组负责人，模组作者" >}}
 {{< /cards >}}
 {{< callout emoji="🔄" >}}
   该部分已经过时或极不完善，且正等待更新
