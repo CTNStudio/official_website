@@ -4,7 +4,6 @@ type: docs
 weight: 6
 prev: /raw-diamond
 ---
-# 方漓猫
 ## 个人信息
 中文名：方漓猫
  
