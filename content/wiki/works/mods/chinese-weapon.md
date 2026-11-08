@@ -100,18 +100,23 @@ comments: true
 {{< tabs >}}
 
 {{< tab name="1.20.1" icon="forge">}}
-### 1.2.1.2
-+ 调整部分盔甲贴图以及模型
-+ 修正语言文件叙述错误
+### 1.2.1.4
+#### 修复
++ 梭枪投掷的位置微调，第三人称梭枪显示修复
++ 骨朵给予效果错误
+#### 添加
++ 在未安装Patchouli时提醒
 
 
   {{< /tab >}}
   {{< tab name="1.21.1" icon="neoforge" >}}
-### 1.2.1.1
-+ 调整部分盔甲贴图以及模型
-+ 修正语言文件叙述错误
-+ 修复副手禁用问题
-+ 修复键位异常问题
+### 1.2.1.2
+#### 修复
++ 梭枪投掷的位置微调，梭枪模型显示异常
++ json出现部分异常问题
+#### 新增
++ 本地化文件新增内容
++ 远古宝石方块
   {{< /tab >}}
 
 {{< /tabs >}}
@@ -120,8 +125,8 @@ comments: true
 
 ## 相关链接
 {{< cards cols="1" >}}
-  {{< card link="https://files.ctnstudios.top/down.php/ec91ec3697298efc089c16d1a3118144.jar" title="立即下载" subtitle="最新版本：1.2.1.2" tag="支持Forge 1.20.1" tagType="info" >}}
-  {{< card link="https://files.ctnstudios.top/down.php/ae3a48f6c10caf9e11515a5521eab43f.jar" title="立即下载" subtitle="最新版本：1.2.1.1" tag="支持NeoForge 1.21.1" tagType="info" >}}
+  {{< card link="https://files.ctnstudios.top/down.php/e4479edac3ba956d137b7f21cc0690c0.jar" title="立即下载" subtitle="最新版本：1.2.1.4" tag="支持Forge 1.20.1" tagType="info" >}}
+  {{< card link="https://files.ctnstudios.top/down.php/884aeb2f810f96c65ceeab1c0787f5d5.jar" title="立即下载" subtitle="最新版本：1.2.1.2" tag="支持NeoForge 1.21.1" tagType="info" >}}
 {{< /cards >}}
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
