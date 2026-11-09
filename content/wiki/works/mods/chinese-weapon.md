@@ -128,6 +128,18 @@ comments: true
   {{< card link="https://files.ctnstudios.top/down.php/e4479edac3ba956d137b7f21cc0690c0.jar" title="立即下载" subtitle="最新版本：1.2.1.4" tag="支持Forge 1.20.1" tagType="info" >}}
   {{< card link="https://files.ctnstudios.top/down.php/884aeb2f810f96c65ceeab1c0787f5d5.jar" title="立即下载" subtitle="最新版本：1.2.1.2" tag="支持NeoForge 1.21.1" tagType="info" >}}
 {{< /cards >}}
+
+{{< details title="不再受支持的版本" closed="true" >}}
+|平台|Minecraft版本|最后模组版本|下载|
+|-----|----|----|------------------------------------|
+|Fabric|1.20.1|1.2.1.4|[![Static Badge](https://img.shields.io/badge/Download-1.2.1.4-orange)](https://files.ctnstudios.top/down.php/763fb92c7f8d4a438b2cca5df95aa67d.jar)|
+|Fabric|1.21.1|1.2.1.4|[![Static Badge](https://img.shields.io/badge/Download-1.2.1.4-orange)](https://files.ctnstudios.top/down.php/93a47e3b22d0c8c0f6c35cf423375d58.jar)|
+|Fabric|26.1|1.2.1.4|[![Static Badge](https://img.shields.io/badge/Download-1.2.1.4-orange)](https://files.ctnstudios.top/down.php/a73f2b97c9c5e97c6f687f2438b39ad6.jar)|
+|Neoforge|26.1|1.2.1.4|[![Static Badge](https://img.shields.io/badge/Download-1.2.1.4-orange)](https://files.ctnstudios.top/down.php/da4e904a714f124de951de6667b5531a.jar)|
+|Forge|1.18.2|1.2.1.4|[![Static Badge](https://img.shields.io/badge/Download-1.2.1.4-orange)](https://files.ctnstudios.top/down.php/92fdede69f002dae370c3260d391de16.jar)|
+|Forge|1.19.2|1.2.1.4|[![Static Badge](https://img.shields.io/badge/Download-1.2.1.4-orange)](https://files.ctnstudios.top/down.php/3bb7552cbfb268e5898f6f710917f764.jar)|
+{{< /details >}} 
+
 + [Curseforge](https://www.curseforge.com/minecraft/mc-mods/chinese-weapons)
 + [Modrinth](https://modrinth.com/mod/chinese-weapons)
 + [MC百科](https://www.mcmod.cn/class/29140.html)
