@@ -1,9 +1,9 @@
 ---
 title: 著作权声明
-weight: 2
+weight: 3
 type: docs
 prev: /wiki/rules
-next: /wiki/all-works
+next: /wiki/discontinued-works
 ---
 虽然本 Wiki 是开放的，但是你有义务尊重作者权利，本 Wiki 的内容中：
 

@@ -1,22 +1,24 @@
 ---
-title: 优秀作品
+title: 维护中作品
 type: docs
-prev: /wiki/members
-next: /wiki/works/maps
+prev: /wiki/wip-works
+next: /wiki/history
+weight: 6
 ---
-## 附加包
+## 模组&附加包
 {{< cards >}}
-  {{< card link="mods/hidden-years" icon="sparkles" title="隐藏之年²" subtitle="一款开发中的冒险模组" >}}
-  {{< card link="mods/stone-craft" title="石头工艺" subtitle="一款以石头为主题的实用模组" >}}
+  {{< card link="mods/hidden-years" icon="sparkles" title="隐藏之年²" subtitle="一款开发中的冒险模组&附加包" >}}
+  {{< card link="mods/stone-craft" title="石头工艺" subtitle="一款以石头为主题的实用附加包" >}}
+  {{< card link="mods/stone-adventure" icon="sparkles" title="磐石之旅" subtitle="石头工艺的衍生冒险附加包" >}}
+  {{< card link="mods/mountain-poem" title="青丘辞" subtitle="一个能让你置身于古籍之中的中式模组" >}}
+  {{< card link="mods/chinese-weapon" title="中式甲兵" subtitle="添加了多种中式盔甲与武器​" >}}
 {{< /cards >}}
+
+[在此](mods)浏览全部。
 
 ## 纹理包
 {{< cards >}}
-  {{< card link="tex/mix-vanilla" title="复合纹理包" subtitle="在旧版形状的基础上融入了新版的上色风格！" >}}  
-  {{< card link="tex/starfall-crystal" title="星落之晶纹理包" subtitle="一款充满晶体风格的纹理包" >}}
+  {{< card link="tex/mix-vanilla" title="经典混合纹理包" subtitle="在旧版形状的基础上融入了新版的上色风格！" >}}  
 {{< /cards >}}
 
-## 地图
-{{< cards >}}
-  {{< card link="maps/sn-island-world" icon="warning" title="[已停更]岛屿世界" subtitle="一款基岩版空岛地图作品，目前已停止开发" >}}  
-{{< /cards >}}
+[在此](tex)浏览全部。

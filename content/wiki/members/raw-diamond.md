@@ -3,6 +3,7 @@ title: RawDiamondMC
 type: docs
 weight: 5
 prev: /jin
+next: /fangcat
 ---
 RawDiamondMC，星屹工作室管理员，模组作者，会写html、javascript、typescript、java。
 

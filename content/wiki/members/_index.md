@@ -2,19 +2,25 @@
 title: 工作室成员
 type: docs
 prev: /wiki/history
-next: /wiki/works
+next: /wiki/department
+weight: 8
 ---
 
 ## 管理层
 {{< cards >}}
-  {{< card link="captain" title="大队长_Captain" subtitle="工作室室长，纹理包作者" >}}
+  {{< card link="captain" title="星零大队长" subtitle="工作室室长，纹理包作者" >}}
   {{< card link="sn" title="Stone Nugget" subtitle="工作室副室长，附加包作者" >}}
-  {{< card link="ykl" title="鬼才亚克力" subtitle="工作室管理员，纹理包作者" >}}
-  {{< card link="jin" title="小尽" subtitle="工作室管理员，模组作者" >}}
-  {{< card link="raw-diamond" title="RawDiamondMC" subtitle="工作室管理员，模组作者" >}}
 {{< /cards >}}
 
 ## 成员
+{{< cards >}}
+  {{< card link="ykl" title="是亚克力" subtitle="美术，纹理包作者" >}}
+  {{< card link="jin" title="哈基尽" subtitle="JE程序，模组作者" >}}
+  {{< card link="raw-diamond" title="RawDiamondMC" subtitle="JE程序，模组作者" >}}
+  {{< card link="fangcat" title="方漓猫" subtitle="隐年开发组负责人，模组作者" >}}
+  {{< card link="oldb" title="OLDB" subtitle="石艺开发组负责人，模组作者" >}}
+  {{< card link="frc" title="FRC" subtitle="音乐人，作曲家" >}}
+{{< /cards >}}
 {{< callout emoji="🔄" >}}
   该部分已经过时或极不完善，且正等待更新
 {{< /callout >}}
@@ -23,6 +29,12 @@ next: /wiki/works
 - Oldb：yesnewbee（夜视牛逼）（新蜜蜂对的）newbee（牛逼）（新逼）（油饼）（新蜜蜂）原名（老逼）（额滴笔）diobee（吊逼）（丢逼）newbeebar（牛逼吧）（你有病吧）（新蜜蜂吧）bakabee（巴卡逼）DuckBuBee（打个布丁）（大可不必）
 - Compaz：原名，小不点
 - mctiao：原名，跳跳
+- sf:原名，升扶
+- 南滇入：原名
+- 小希:原名，Xiris，Кирис
+- 末影洁：原名，End_Ying_Jie
+- 夙风：原名
+- 小海：原名，Призмарин，This_is_Prizmarin
 - 常规巡查：我的世界玩家哈，原名
 - 岔雾：原名，Chawu
 - Amarok：原名，AmarokIce，Someoneice，初雪·冰，咩狼，咩咩狼
