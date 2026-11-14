@@ -15,3 +15,11 @@ FREirc是星屹工作室（CTN STUDIO）的音乐制作者。
 
 他负责《隐藏之年：天边的迦万涅尔》《传说之剑·被尘封的传说》的原创曲目由他制作。
 *注：他是本工作室的老资历。*
+
+## 作品列表
+*注：仅收录部分歌曲。*
+### 隐藏之年
+- [雷光战曲｜Thunderclap March]([https://markdown.com.cn](https://www.bilibili.com/video/BV1tFRKYzE2n)
+- [平原遐想｜Plain Thoughts](https://www.bilibili.com/video/BV1iFJVzbEs1)
+### 传说之剑
+- [始生之墟｜Where it starts](https://www.bilibili.com/video/BV1U3jmzME9g)
