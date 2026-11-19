@@ -8,6 +8,14 @@ comments: true
 ---
 磐石之旅是石头工艺的衍生冒险模组，让你背包里的圆石不再浪费！
 
+[![Release](https://img.shields.io/github/v/release/CTNStudio/StoneAdventure?label=release&sort=semver&color=2f81f7)](https://github.com/CTNStudio/StoneAdventure/releases)
+[![License](https://img.shields.io/github/license/CTNStudio/StoneAdventure?label=license&color=2ea043)](LICENSE)
+[![Minecraft](https://img.shields.io/badge/Minecraft_Bedrock-1.26.40%2B-3C8527)](https://www.minecraft.net/)
+[![Downloads](https://img.shields.io/github/downloads/CTNStudio/StoneAdventure/total?label=downloads&color=e3b341)](https://github.com/CTNStudio/StoneAdventure/releases)
+[![Issues](https://img.shields.io/github/issues/CTNStudio/StoneAdventure?label=issues&color=d73a49)](https://github.com/CTNStudio/StoneAdventure/issues)
+
+![logo](https://i.imgs.ovh/2026/08/30/554c6f20aa88cd0a182c07706d298c49.png)
+
 > 「如是我见，窥磐石低语」
 
 图标由 [@星零大队长](https://www.mcmod.cn/author/29211.html) 设计，本作品属 [星屹工作室（CTN STUDIO）](https://www.ctnstudios.top/) 作品。
