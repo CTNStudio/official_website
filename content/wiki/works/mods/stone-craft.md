@@ -75,9 +75,34 @@ comments: true
 + [苦力怕论坛](https://klpbbs.com/thread-28013-1-1.html)
 + [MineBBS](https://www.minebbs.com/resources/stone-craft.5750/)
 ### Java版
-{{< cards cols="1" >}}
-  {{< card link="https://1815184920.cdn.123clouddisk.com/1815184920/35498623#" title="立即下载" subtitle="最新版本：1.0.2" tag="Java版·最新正式版" tagType="info" >}}
-{{< /cards >}}
+{{< tabs >}}
+  {{< tab name="1.21.1" icon="neoforge" >}}
+    {{< cards cols="1" >}}
+      {{< card link="https://files.ctnstudios.top/down.php/22640a61a30a4bba3eb533c3d60924e4.jar" title="立即下载" subtitle="最新版本：1.0.6" tag="支持Neoforge 1.21.1" tagType="info" >}}
+    {{< /cards >}}
+  {{< /tab >}}
+  {{< tab name="1.21.1" icon="forge" >}}
+    {{< cards cols="1" >}}
+      {{< card link="https://files.ctnstudios.top/down.php/9996454e3a51cebc634707e9d4f066c7.jar" title="立即下载" subtitle="最新版本：1.0.6 Beta" tag="支持Forge 1.21.1" tagType="warning" >}}
+    {{< /cards >}}
+  {{< /tab >}}
+  {{< tab name="1.21.1" icon="fabric" >}}
+    {{< cards cols="1" >}}
+      {{< card link="https://files.ctnstudios.top/down.php/c9c824ffde3dbed4287440e43f95d1af.jar" title="立即下载" subtitle="最新版本：1.0.6 Beta" tag="支持Fabric 1.21.1" tagType="warning" >}}
+    {{< /cards >}}
+  {{< /tab >}}
+  {{< tab name="1.20.1" icon="fabric" >}}
+    {{< cards cols="1" >}}
+      {{< card link="https://files.ctnstudios.top/down.php/676178b6bb426314c5032b718b254fdf.jar" title="立即下载" subtitle="最新版本：1.0.6" tag="支持Fabric 1.20.1" tagType="info" >}}
+    {{< /cards >}}
+  {{< /tab >}}
+  {{< tab name="1.19.2" icon="fabric" >}}
+    {{< cards cols="1" >}}
+      {{< card link="https://files.ctnstudios.top/down.php/9996454e3a51cebc634707e9d4f066c7.jar" title="立即下载" subtitle="最新版本：1.0.6" tag="支持Forge 1.19.2" tagType="info" >}}
+    {{< /cards >}}
+  {{< /tab >}}
+{{< /tabs >}}
+
 + [Modrinth](https://modrinth.com/mod/stone-craft)
 + [苦力怕论坛](https://klpbbs.com/thread-164580-1-1.html)
 + [MineBBS](https://www.minebbs.com/resources/stone-craft-java.12926/)
