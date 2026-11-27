@@ -20,6 +20,7 @@ weight: 8
   {{< card link="fangcat" title="方漓猫" subtitle="隐年开发组负责人，模组作者" >}}
   {{< card link="oldb" title="NewBee" subtitle="石艺开发组负责人，模组作者" >}}
   {{< card link="frc" title="FRC" subtitle="音乐人，作曲家" >}}
+  {{< card link="lnw" title="Lnw" subtitle="音乐人，作曲家" >}}
 {{< /cards >}}
 {{< callout emoji="🔄" >}}
   该部分已经过时或极不完善，且正等待更新
