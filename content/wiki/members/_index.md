@@ -9,29 +9,30 @@ weight: 8
 ## 管理层
 {{< cards >}}
   {{< card link="captain" title="星零大队长" subtitle="室长，美术" >}}
-  {{< card link="sn" title="Stone Nugget" subtitle="副室长，模组作者" >}}
+  {{< card link="sn" title="StoneNugget" subtitle="副室长，模组作者" >}}
 {{< /cards >}}
 
 ## 成员
 ### 程序
 {{< cards >}}
   {{< card link="jin" title="哈基尽" subtitle="JE程序，模组作者" >}}
+  {{< card link="amarokIce" title="初雪·冰" subtitle="JE程序，模组作者" >}}
   {{< card link="raw-diamond" title="RawDiamondMC" subtitle="JE程序，模组作者" >}}
   {{< card link="fangcat" title="方漓猫" subtitle="隐年开发组负责人，模组作者" >}}
   {{< card link="oldb" title="NewBee" subtitle="石艺开发组负责人，模组作者" >}}
   {{< card link="sf" title="SF" subtitle="中甲&青丘主程序，模组作者" >}}
 {{< /cards >}}
-### 美术
+### 美术&建模
 {{< cards >}}
   {{< card link="ykl" title="是亚克力" subtitle="美术，纹理包作者" >}}
-  {{< card link="slime-dragon" title="小史龙吖" subtitle="美术" >}}
+  {{< card link="slime-dragon" title="小史龙吖Slime_Dragon" subtitle="美术" >}}
   {{< card link="kulou-d" title="KuLou_D" subtitle="美术" >}}
   {{< card link="xiris" title="Xiris" subtitle="中甲&青丘开发组负责人，建模" >}}
 {{< /cards >}}
 ### 音乐
 {{< cards >}}
   {{< card link="frc" title="FRC" subtitle="音乐人，作曲家" >}}
-  {{< card link="lnw" title="Lnw" subtitle="音乐人，作曲家" >}}
+  {{< card link="lnw" title="LnW" subtitle="音乐人，作曲家" >}}
 {{< /cards >}}
 
 {{< callout emoji="🔄" >}}
