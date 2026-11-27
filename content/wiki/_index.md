@@ -18,7 +18,7 @@ next: /wiki/rules
 {{< cards >}}
   {{< card link="works" title="作品" subtitle="了解作品" >}}
   {{< card link="history" title="编年史表" subtitle="了解星屹工作室的发展" >}}
-  {{< card link="/members" title="成员" subtitle="了解我们的成员" >}}
+  {{< card link="/wiki/members/" title="成员" subtitle="了解我们的成员" >}}
 {{< /cards >}}
 
 ## 开始编辑吧！
