@@ -24,6 +24,8 @@ weight: 8
 {{< cards >}}
   {{< card link="ykl" title="是亚克力" subtitle="美术，纹理包作者" >}}
   {{< card link="slime-dragon" title="小史龙吖" subtitle="美术" >}}
+  {{< card link="kulou-d" title="KuLou_D" subtitle="美术" >}}
+  {{< card link="xiris" title="Xiris" subtitle="中甲&青丘负责人，建模" >}}
 {{< /cards >}}
 ### 音乐
 {{< cards >}}
