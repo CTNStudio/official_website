@@ -9,13 +9,13 @@ next: frc
 
 - 名称：NewBee
  
-- 别称：OldB
+- 别称：OldB、YesNewBee、NewBeeBar、BakaBee
 
 ## 简介
 
 NewBee于*2023年1月31日*加入星屹工作室(CTN STUDIO)，他是《石头工艺》和《磐石之旅》的原作，目前主要负责的是《磐石之旅》基岩版。
 
-方漓猫是NewBee拉入工作室的。
+方漓猫是由NewBee拉入工作室的。
 
 ## 个人作品
 - 强化针剂
