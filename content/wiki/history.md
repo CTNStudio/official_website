@@ -3,7 +3,7 @@ title: 工作室史
 type: docs
 prev: /wiki/works
 next: /wiki/members
-weight: 6
+weight: 7
 ---
 ## 2018 年
 
