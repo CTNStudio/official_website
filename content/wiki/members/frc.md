@@ -3,6 +3,7 @@ title: FRC
 type: docs
 weight: 8
 prev: /oldb
+next: lnw
 ---
 ## 个人信息
 - 名称：FRC
