@@ -5,20 +5,20 @@ type: docs
 next: /wiki/rules
 ---
 
-👋 嗨！欢迎回到星屹工作室Wiki
+👋 嗨！欢迎回到星屹工作室 Wiki
 
 <!--more-->
 
-## 关于本Wiki
+## 关于本 Wiki
+星屹工作室（CTN STUDIO）是由星零大队长带领的、创建于2018年1月的 Minecraft 工作室，致力于创作更多的优秀 Minecraft 作品。
 
 星屹工作室 Wiki 在这里致力于收集一切和星屹工作室有关的信息。
-
-__目前，本Wiki仍在测试中且不完善，您可以先行前往旧版[Fandom Wiki](https://ctnstudio.fandom.com/zh/wiki/CTN_Studio_Wiki)或[灰机Wiki（已被关闭）](https://ctnstudio.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)查询与星屹工作室有关的信息。__
 
 ## 内容一览
 {{< cards >}}
   {{< card link="works" title="作品" subtitle="了解作品" >}}
   {{< card link="history" title="编年史表" subtitle="了解星屹工作室的发展" >}}
+  {{< card link="/members" title="成员" subtitle="了解我们的成员" >}}
 {{< /cards >}}
 
 ## 开始编辑吧！
