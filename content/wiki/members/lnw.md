@@ -3,6 +3,7 @@ title: LnW
 type: docs
 weight: 9
 prev: /oldb
+next: /slime-dragon
 ---
 ## 个人信息
 
