@@ -33,6 +33,15 @@ weight: 8
 {{< cards >}}
   {{< card link="frc" title="FRC" subtitle="音乐人，作曲家" >}}
   {{< card link="lnw" title="LnW" subtitle="音乐人，作曲家" >}}
+  {{< card link="pants-jk" title="梅川库子PantsJK" subtitle="红石音乐，MVZ1PE参与者" >}}
+{{< /cards >}}
+### 其他
+{{< cards >}}
+  {{< card link="prizmarin" title="Призмарин" subtitle="俄文本地化，外籍成员" >}}
+{{< /cards >}}
+## 前成员
+{{< cards >}}
+  {{< card link="kastname" title="Kastname" subtitle="前副室长" >}}
 {{< /cards >}}
 
 {{< callout emoji="🔄" >}}
@@ -64,6 +73,3 @@ weight: 8
 - wtitemilk：原名
 - xian_hunQAQ：原名，弦魂
 - 科家：KJ，原名
-
-## 前成员
-- Kastname：前工作室副室长、管理员
