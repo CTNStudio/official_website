@@ -46,9 +46,9 @@ weight: 8
 {{< /cards >}}
 
 {{< callout emoji="🔄" >}}
-  该部分已经过时或极不完善，且正等待更新
+  该部分正在补充中，如有疑问请联系星屹工作室管理组
 {{< /callout >}}
-{{< details title="点此展开" closed="true" >}}
+{{< details title="点此展开 旧成员表（已过时或不完善）" closed="true" >}}
 - FRE：原名
 - 穿礼服的骑士：74，原名，穿骑士的礼服，骑士，Qishi
 - Oldb：yesnewbee（夜视牛逼）（新蜜蜂对的）newbee（牛逼）（新逼）（油饼）（新蜜蜂）原名（老逼）（额滴笔）diobee（吊逼）（丢逼）newbeebar（牛逼吧）（你有病吧）（新蜜蜂吧）bakabee（巴卡逼）DuckBuBee（打个布丁）（大可不必）
