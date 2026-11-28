@@ -1,8 +1,9 @@
 ---
-title: 初雪·冰
+title: Amaruq·Illaujaq
 type: docs
 weight: 14
 prev: /sf
+next: /prizmarin
 ---
 ## 个人信息
 
