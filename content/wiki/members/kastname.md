@@ -3,7 +3,7 @@ title: Kastname
 type: docs
 weight: 16
 prev: /prizmarin
-next: /kastname
+next: /pants-jk
 ---
 ## 个人信息
 
