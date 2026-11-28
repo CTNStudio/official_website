@@ -6,8 +6,8 @@ prev: /sf
 ---
 ## 个人信息
 
-- 名称：初雪·冰 Amaruq·Illaujaq
-- 别称：雪狼、AmarokIce
+- 名称：Amaruq·Illaujaq
+- 别称：初雪·冰、雪狼、AmarokIce
 
 ## 简介
 Java 模组开发者，于 2023 年 11 月 24 日加入工作室。
