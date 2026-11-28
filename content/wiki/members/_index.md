@@ -21,6 +21,7 @@ weight: 8
   {{< card link="fangcat" title="方漓猫" subtitle="隐年开发组负责人，模组作者" >}}
   {{< card link="oldb" title="NewBee" subtitle="石艺开发组负责人，模组作者" >}}
   {{< card link="sf" title="SF" subtitle="中甲&青丘主程序，模组作者" >}}
+  {{< card link="carrot-legend" title="传奇萝卜王" subtitle="隐年JE程序，整合包作者" >}}
 {{< /cards >}}
 ### 美术&建模
 {{< cards >}}
