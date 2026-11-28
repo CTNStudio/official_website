@@ -6,11 +6,10 @@ prev: /sf
 ---
 ## 个人信息
 
-- 名称：初雪·冰
- 
-- 别称：雪狼、Someoneice、AmarokIce、Amaruq·Illaujaq、snowlyicewolf、咩咩狼、Illaujaq
+- 名称：初雪·冰 Amaruq·Illaujaq
+- 别称：雪狼、AmarokIce
 
 ## 简介
-他是《凤梨乐事》模组作者，他在2023年11月24日加入工作室。
+Java 模组开发者，于 2023 年 11 月 24 日加入工作室。
 
 参与了《石头工艺》Java版（第二版）、《矿物树》的程序。
