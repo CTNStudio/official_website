@@ -45,34 +45,20 @@ weight: 8
   {{< card link="kastname" title="Kastname" subtitle="前副室长" >}}
 {{< /cards >}}
 
-{{< callout emoji="🔄" >}}
-  该部分正在补充中，如有疑问请联系星屹工作室管理组
-{{< /callout >}}
-{{< details title="点此展开 旧成员表（已过时或不完善）" closed="true" >}}
-- FRE：原名
-- 穿礼服的骑士：74，原名，穿骑士的礼服，骑士，Qishi
-- Oldb：yesnewbee（夜视牛逼）（新蜜蜂对的）newbee（牛逼）（新逼）（油饼）（新蜜蜂）原名（老逼）（额滴笔）diobee（吊逼）（丢逼）newbeebar（牛逼吧）（你有病吧）（新蜜蜂吧）bakabee（巴卡逼）DuckBuBee（打个布丁）（大可不必）
-- Compaz：原名，小不点
-- mctiao：原名，跳跳
-- sf:原名，升扶
-- 南滇入：原名
-- 小希:原名，Xiris，Кирис
-- 末影洁：原名，End_Ying_Jie
-- 夙风：原名
-- 小海：原名，Призмарин，This_is_Prizmarin
-- 常规巡查：我的世界玩家哈，原名
-- 岔雾：原名，Chawu
-- Amarok：原名，AmarokIce，Someoneice，初雪·冰，咩狼，咩咩狼
-- 和纸：原名，和纸，星野，鲸落，眠酱，厌影，21+4g，25g
-- 二次元库子酱：二次元库子酱-饥渴，原名
-- YTXSY：引体向上哟，一条小酥鱼，YTXSY7k，原名，七个K萌新，长发少侠
-- 方漓猫：方li猫，方狸猫，哆啦A梦，方琉璃
-- LnW：原名，竹叶幻翼
-- 流然：原名，然然，Liuran
-- Kulou_D：原名，KuLou_D699，骷髅之凋，kd，KuLouD，kld
-- 小史龙吖Slime_Dragon：原名，第二吉祥物，果冻龙
-- rftwdsj：原名
-- wtitemilk：原名
-- xian_hunQAQ：原名，弦魂
-- 科家：KJ，原名
-{{< /details >}}
+> [!NOTE]- **已折叠**：该部分正在补充中，如有疑问请联系星屹工作室管理组
+> - 穿礼服的骑士：74，原名，穿骑士的礼服，骑士，Qishi
+> - Compaz：原名，小不点
+> - mctiao：原名，跳跳
+> - 南滇入：原名
+> - 夙风：原名
+> - 常规巡查：我的世界玩家哈，原名
+> - 岔雾：原名，Chawu
+> - Amarok：原名，AmarokIce，Someoneice，初雪·冰，咩狼，咩咩狼
+> - 和纸：原名，和纸，星野，鲸落，眠酱，厌影，21+4g，25g
+> - 二次元库子酱：二次元库子酱-饥渴，原名
+> - YTXSY：引体向上哟，一条小酥鱼，YTXSY7k，原名，七个K萌新，长发少侠
+> - 流然：原名，然然，Liuran
+> - rftwdsj：原名
+> - wtitemilk：原名
+> - xian_hunQAQ：原名，弦魂
+> - 科家：KJ，原名
