@@ -1,7 +1,7 @@
 baseURL: https://beta.ctnstudios.top/
 languageCode: zh-cn
 title: 星屹工作室
-theme: hextra-0.12.3
+theme: hextra-0.13.0
 
 outputs:
   home: [html, llms, markdown]
